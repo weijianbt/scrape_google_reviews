@@ -7,7 +7,10 @@ The purpose of this project is to:
 
 ## Output
 1. Script is able to extract all reviews from each store based on the "store_data.json" which contains the addresses (google map hyperlink) scraped from ZUS Coffee's offical website.
-2. Further insights can be generated such as average store rating by state, rating increase/decrease trend over time etc.
+2. Data such as review text, review count, review rating, review response and etc can be gathered.
+3. Further insights can be generated such as average store rating by state, rating increase/decrease trend over time etc.
+
+![sample_output](sample_output.png)
 
 # Limitation
 1. Code is not equipped to bypass bot-detection (if any)
