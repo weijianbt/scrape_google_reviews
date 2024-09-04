@@ -1,0 +1,2650 @@
+{
+    "state": {
+        "perlis": [
+            {
+                "store_name": "ZUS Coffee \u2013 Pengkalan Asam, Kangar",
+                "store_address": "Lot No. 318, Ground Floor, Jalan Kangar-Alor Setar, Taman Mutiara, 01000 Kangar, Perlis",
+                "store_link": "https://maps.app.goo.gl/FoDQDdXFgCYwHfnR6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Subang Parade",
+                "store_address": "Lot LGC15, Lower Ground Floor, Subang Parade Shopping Centre",
+                "store_link": "https://goo.gl/maps/TeWrKKJHPzjpgnPY9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Arau",
+                "store_address": "Lot 3A, Jalan Satu, Kompleks Tok Arau, Arau, 02600 Kangar, Perlis.",
+                "store_link": "https://goo.gl/maps/ftB1DPT2HJfvwK6LA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kangar Jaya",
+                "store_address": "No 21 (Ground Floor), Jalan Kangar Jaya 14, Jalan Tuanku Syed Putra, Kangar Jaya, 01000 Kangar, Perlis.",
+                "store_link": "https://goo.gl/maps/wRJWP6k62wk2yY5m8"
+            }
+        ],
+        "kedah": [
+            {
+                "store_name": "ZUS Coffee \u2013 Langkawi Cenang Plaza",
+                "store_address": "Pantai Cenang, Lot 2606, Cenang Plaza Beach Hotel, Jalan Pantai Cenang, Mukim Kedawang, 07000 Langkawi, Kedah Darul Aman",
+                "store_link": "https://maps.app.goo.gl/JvoxS2AtCNZ8Rroi6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Baru Baling",
+                "store_address": "No.102(GF),Persisiran Kota 4/5, Kota Baling Jaya, 09100 Baling Kedah.",
+                "store_link": "https://maps.app.goo.gl/13qumKrEh2ahiCD5A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Riverfront City, Sungai Petani",
+                "store_address": "No. 191, Jalan Mawar 3/2, Taman Pekan Baru, 08000 Sungai Petani, Kedah",
+                "store_link": "https://maps.app.goo.gl/VcKCmaRa3zPXJz7w7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Langgar, Alor Setar",
+                "store_address": "No.58(GF), Jalan Langgar 05460 Alor Setar Kedah.",
+                "store_link": "https://maps.app.goo.gl/XNBHn5PcyzU94jJ7A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Sejati, Sungai Petani",
+                "store_address": "No.25 (GF),Jalan Permatang Gedong Taman Sejati Indah 08000 Sungai Petani Kedah.",
+                "store_link": "https://maps.app.goo.gl/G9eaMe63cRcGWsMv7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kuala Nerang",
+                "store_address": "No. 18, Kompleks Kuala Nerang, Jalan Kuala Nerang, Pekan Baru, 06300 Kuala Nerang, Kedah.",
+                "store_link": "https://maps.app.goo.gl/Kkpb5NRWrmH8Nrt28"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Guar Chempedak",
+                "store_address": "No 9, Kompleks Perniagaan Guar Utama, 08800 Guar Chempedak",
+                "store_link": "https://maps.app.goo.gl/teGN4mRWKQDSXSqM6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Jerai Maju, Gurun",
+                "store_address": "No.14 (GF), Jalan Jerai Maju 2, Taman Jerai Maju 08300 Gurun, Kedah.",
+                "store_link": "https://maps.app.goo.gl/YND3Y4xaf2GAXmdYA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Simpang Empat Perdana, Kedah",
+                "store_address": "B-1(Ground Floor), Susuran Lada 1, Simpang 4, Taman Simpang Perdana, 06650 Alor Setar, Kedah.",
+                "store_link": "https://maps.app.goo.gl/NhrEHRc6CkZfpk2AA"
+            },
+            {
+                "store_name": "ZUS Coffee DT \u2013 SHELL Hutan Kampung, Alor Setar",
+                "store_address": "HSM 20792, PT 9103, HUTAN KAMPUNG, BANDAR ALOR SETAR, 05150 KOTA SETAR, KEDAH",
+                "store_link": "https://maps.app.goo.gl/9cd9f9Y3vT4uyD2w5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Ampang Business Centre",
+                "store_address": "Lot TG-1, PT 111, Kompleks Perniagaan Ampang, Lebuhraya Sultanah Bahiyah, 05050 Alor Setar, Kedah",
+                "store_link": "https://goo.gl/maps/9C8PHfio6DfKVBqU6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Central Square",
+                "store_address": "Lot TR-05 & 06, Centra Square Shopping Centre, 23, Jalan Kampung Baru, 08000 Sungai Petani, Kedah",
+                "store_link": "https://goo.gl/maps/5nyvR7R9nRcntMoS8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kulim Central",
+                "store_address": "Lot GF-14, Kulim Central, Jalan Klc 1, Kampung Keladi, 09000 Kulim, Kedah",
+                "store_link": "https://goo.gl/maps/kVT4SADvcYGnU8WY7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Amanjaya Mall",
+                "store_address": "Lot K31 & K32, Lower Ground Floor, Kompleks, Amanjaya, No.1, Jalan Jati 1, 08000 Sungai Petani, Kedah",
+                "store_link": "https://goo.gl/maps/BEYEjvZiiQ9gcs2b8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Amanjaya Mall",
+                "store_address": "Lot K31 & K32, Lower Ground Floor, Kompleks, Amanjaya, No.1, Jalan Jati 1, 08000 Sungai Petani",
+                "store_link": "https://goo.gl/maps/P6X9Z4rXgKkiYhyLA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Lagenda Heights",
+                "store_address": "No 190, Ground Floor, Jalan Legenda 7, Lagenda Heights, 08000 Sungai Petani, Kedah Darul Aman.",
+                "store_link": "https://goo.gl/maps/7fEKk55yaDVFDJVB6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 CALTEX Cindai Jaya, SP",
+                "store_address": "No 10, Jalan Cindai Jaya 1A, Taman Cindai Jaya, 08000 Sungai Petani, Kedah Darul Aman.",
+                "store_link": "https://goo.gl/maps/oWpRSH2TWvqMsGYE7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Serai Wangi Mall",
+                "store_address": "Lot 53, No.2500, Lorong Serai Wangi 4/10, Taman Serai Wangi III & IV, 09400, Padang Serai, Kedah Darul Aman",
+                "store_link": "https://goo.gl/maps/AW2fZ4gwwNnkVh4r7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Langkawi MAHA Tower",
+                "store_address": "Unit L1A-01, MAHA Tower Langkawi, Kuah, 07000 Langkawi, Kedah",
+                "store_link": "https://goo.gl/maps/MBB7WuLyYkKB4q6k6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Aman Central",
+                "store_address": "LG-K28 & K29. Aman Central, 1, Darul Aman Hwy, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah",
+                "store_link": "https://goo.gl/maps/Ue4boym9QizcmKmn9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jitra",
+                "store_address": "Lot 1521-A1, Pantai Halban, Bandar Darulaman Jaya, 06000 Jitra, Kedah Darul Aman.",
+                "store_link": "https://goo.gl/maps/jWb3tyeBE4Sdsaua9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kuala Ketil",
+                "store_address": "No 154 (Ground Floor), Persiaran KKCC 3, Kuala Ketil Commercial Centre, 09100 Kuala Ketil, Kedah Darul Aman.",
+                "store_link": "https://goo.gl/maps/TQZGFAwWaBm92kjT7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Medan Putra, Alor Setar",
+                "store_address": "No 210-A (Ground Floor), Medan Putra Seberang, Jalan Putra, 05150 Alor Setar, Kedah Darul Aman",
+                "store_link": "https://goo.gl/maps/GeZvKEZReuTvmSBs5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Changlun",
+                "store_address": "No 11 (Ground Floor), Lebuhraya Bukit Kayu Hitam, Pekan Changlun 2, 06010 Changlun, Kedah Darul Aman",
+                "store_link": "https://goo.gl/maps/cYfhgoJ4DKkBG2qMA"
+            },
+            {
+                "store_name": "PEKAN SIMPANG KUALA, ALOR SETAR",
+                "store_address": "No 224-A (Ground Floor) Jln PSK 6, Pekan Simpang Kuala, 05400 Alor Setar, Kedah",
+                "store_link": "https://goo.gl/maps/Ry8nBhHfmn2giocF7"
+            },
+            {
+                "store_name": "JALAN BAKAR ARANG, SG PETANI",
+                "store_address": "B8 (Ground Floor), Jalan Bakar Arang, 08000 Sungai Petani, Kedah",
+                "store_link": "https://goo.gl/maps/Bhz1ctpNSBYBwSYUA"
+            }
+        ],
+        "penang": [
+            {
+                "store_name": "ZUS Coffee \u2013 Karpal Singh Drive, Penang",
+                "store_address": "Lot 9, Maritime, Karpal Singh Dr, 11600 Jelutong, Penang",
+                "store_link": "https://maps.app.goo.gl/MF6yKeLsmBWdH1Ji6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Design Village Outlet Mall",
+                "store_address": "G-57, Design Village Outlet Mall, 733, Jalan Cassia Barat 2, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang",
+                "store_link": "https://maps.app.goo.gl/SWriUErcUseo9Wn77"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Universiti Sains Malaysia (Cabin In The Woods)",
+                "store_address": "Cabin B (Cabin By The Woods), Bangunan G28, Universiti Sains Malaysia, 11800 USM, Pulau Pinang.",
+                "store_link": "https://maps.app.goo.gl/EzS7fk9yYCZS5mJK6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Ara Jaya",
+                "store_address": "21, Jalan Ara Jaya, Taman Ara Jaya, 13310 Tasek Gelugor, Pulau Pinang",
+                "store_link": "https://maps.app.goo.gl/W8uX5nCpRWJZzGySA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Aeon Mall Bukit Mertajam",
+                "store_address": "KG02, Lower Ground Floor, Aeon Mall Bukit Mertajam, Lot No. 30908, Jalan Rozhan, Alma, 14000 Bukit Mertajam, Pulau Pinang",
+                "store_link": "https://maps.app.goo.gl/8VVrDtaALRn6uAUA9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MYDIN Bukit Mertajam",
+                "store_address": "Lot No.GFNB-11 (Ground Floor), MYDIN Bukit Mertajam, LOT-LOT 3424, 1619, 1611, 1511, 1186 & 850, Mukim 06, Jalan Baru, 13600 Seberang Perai Tengah, Pulau Pinang.",
+                "store_link": "https://maps.app.goo.gl/VznKxNw3N967vDzK7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 PKT Logistic Batu Kawan",
+                "store_address": "No 1, Logistic Boulevard, One Auto Hub, Batu Kawan Industrial Park, 14110 Bandar Cassia, Penang.",
+                "store_link": "https://maps.app.goo.gl/hqxUmJVTKDDCQB639"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Tree Square, Tanjung Bungah",
+                "store_address": "No. 88-G-A05, Jalan Sungai Kelian, 11200 Tanjong Bungah, Penang",
+                "store_link": "https://maps.app.goo.gl/nbzRCMWW4mJ8DVea7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kepala Batas Pokok Sena",
+                "store_address": "No. 45, (Ground Floor), Persiaran Pokok Sena, Pusat Perniagaan Pokok Sena, 13220 Kepala Batas, Pulau Pinang",
+                "store_link": "https://maps.app.goo.gl/SvwXhx3HfJwcgXUn8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Chai Leng",
+                "store_address": "No 48, Ground Floor, Lebuh Kurau 3, Taman Chai Leng, 13700 Perai, Pulau Pinang",
+                "store_link": "https://maps.app.goo.gl/7bVr3Len62wGvV389"
+            },
+            {
+                "store_name": "ZUS Coffee DT \u2013 Metrioplace Batu Kawan",
+                "store_address": "1818-2-2, Jalan Perniagaan Vorteks, Pusat Perniagaan Vorteks, 14100 Simpang Ampat, Penang",
+                "store_link": "https://maps.app.goo.gl/Gya6CaaqQwxBkhsj7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Queensbay Mall",
+                "store_address": "Lot LG-17, Queensbay Mall, 100, Persiaran Bayan Indah, 11900 Bayan Lepas, Penang",
+                "store_link": "https://goo.gl/maps/CxAsT2yUTGmAyF7T6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Ferringhi Walk",
+                "store_address": "72C-G-7 ,Jalan Batu Ferringhi, 11100 Batu Ferringhi, Penang",
+                "store_link": "https://goo.gl/maps/2a22d6vcjaofswY48"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Komtar Walk",
+                "store_address": "Lot No. 3 (Ground Floor), Komtar Walk, Jalan Dr Lim Chwee Leong, 10450 George Town, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/qWv23eEeQpjfACyN9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Plaza Gurney",
+                "store_address": "Lot 170-03-68, Gurney Plaza, Persiaran Gurney, 10250, Penang, Malaysia",
+                "store_link": "https://goo.gl/maps/Bmxb7dhyF5PCUt8R9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jetty Point Complex",
+                "store_address": "Lot Zone 2N Lot 9, Kompleks Jetty Point, Persiaran Putera, Kuah, 07000, Langkawi, Kedah",
+                "store_link": "https://goo.gl/maps/nMJUprnSLLrRByt7A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 CALTEX Bandar Putra Bertam",
+                "store_address": "2278 (Lot 9588), Jalan Tun Hamdan Sheikh Tahir, Bandar Putra Bertam, 13200 Kepala Batas, Pulau Pinang.",
+                "store_link": "https://goo.gl/maps/uTPW2yjJq6brMHnN8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 IKEA Batu Kawan Link Building (Klippa)",
+                "store_address": "LG.07, Lower Ground Floor, IKEA Batu Kawan Link Building, 752, Persiaran Cassia Selatan, 8, Lebuhraya Bandar Cassia, 14110 Simpang Ampat, Penang",
+                "store_link": "https://goo.gl/maps/QyVn6UwCbFRqfW6E7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Botanica Balik Pulau",
+                "store_address": "No 138 (Ground Floor), Jalan Sungai Air Putih, 11000 Balik Pulau, Pulau Pinang.",
+                "store_link": "https://goo.gl/maps/WBub83YKw6zSAgsr7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Eco Borealis",
+                "store_address": "No 29-G, Jalan Borealis 3, Pusat Komersial Borealis, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang.",
+                "store_link": "https://goo.gl/maps/6zVGYzc6mDzR3WQF9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Machang Bubok",
+                "store_address": "No 235-G, Jalan Machang Bubok 1, Taman Machang Bubok, 14020 Bukit Mertajam, Pulau Pinang.",
+                "store_link": "https://goo.gl/maps/4hWK4jo2dyr35rUL7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Iconic Point Simpang Ampat",
+                "store_address": "No 29-G (Ground Floor), Jalan Iconic Point, Iconic Point Business Park, 14100 Simpang Ampat, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/GbFqPSf4S3ZBxVNR7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jelutong",
+                "store_address": "No 11-G, Vantage Point, Jalan Lenggong, 11600 Jelutong, Pulau Pinang.",
+                "store_link": "https://goo.gl/maps/RS5BVVPMWZnCF5wo7"
+            },
+            {
+                "store_name": "QUEENS WATERFRONT, BAYAN LEPAS",
+                "store_address": "1-G-26, Jalan Bayan Indah, Queens Waterfront Q1, 11900 Bayan Lepas, Penang",
+                "store_link": "https://goo.gl/maps/o5sEeJEaVCAqf9KPA"
+            },
+            {
+                "store_name": "MACALISTER, GEORGETOWN",
+                "store_address": "109-B, Jalan Macalister, 10400 George Town, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/6nKm5DFx78EVFdWC6"
+            },
+            {
+                "store_name": "MAJU UTAMA, PENANG",
+                "store_address": "No 3183 (Ground Floor), Jalan Maju, Pusat Perniagaan Maju Utama, 14000 Bukit Mertajam, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/kq5bXNXvowa9gdQT8"
+            },
+            {
+                "store_name": "RAJA UDA BUTTERWORTH, PENANG",
+                "store_address": "No 17 (Ground Floor), Pusat Perniagaan Raja Uda, Jalan Raja Uda, Kampung Paya, 12300 Butterworth, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/cdJjCnLFHEx6PX5EA"
+            },
+            {
+                "store_name": "SUNWAY CARNIVAL MALL",
+                "store_address": "1F-K17, Sunway Carnival Mall, 3068, Jalan Todak, Pusat Bandar Seberang Jaya, 13700 Seberang Jaya, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/fab1Vm4Etov3rizV6"
+            },
+            {
+                "store_name": "NIBONG TEBAL C-MART",
+                "store_address": "LOT 72A, 74A, 76A, NO. 3974, Jalan Industri Cenderawasih Kompleks Industri Cenderawasih, LOT 5631, MK 11, 14300 Nibong Tebal, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/e9UKsez4ty7mm63r7"
+            },
+            {
+                "store_name": "ALMA @ BUKIT MERTAJAM, PENANG",
+                "store_address": "No 13 (Ground Floor), Persiaran Seri Impian, Pusat Perniagaan Mahkota Impian, 14000 Bukit Mertajam, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/mbNzbBBkiZK9f6Bg7"
+            },
+            {
+                "store_name": "GURNEY PARAGON MALL PENANG",
+                "store_address": "163-D, Lot LG-03, Lower Ground Floor Gurney Paragon Mall, Persiaran Gurney, 10250 George Town, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/Wtgeer2yj7rhoHeH9"
+            },
+            {
+                "store_name": "SEBERANG PERAI",
+                "store_address": "Unit B1-G-12, Elevate 1, Lorong Pauh Jaya 1/3, Taman Pauh Jaya, 13500 Permatang Pauh, Seberang Perai Tengah",
+                "store_link": "https://goo.gl/maps/e6wRbaT2betVo9UB7"
+            },
+            {
+                "store_name": "BAYAN LEPAS",
+                "store_address": "01-03, Golden Triangle 2 Commercial Square, Jalan Dato Ismail Hashim, 11900 Bayan Lepas",
+                "store_link": "https://goo.gl/maps/1oaLfwR6mifV17wr9"
+            },
+            {
+                "store_name": "PENANG AYER ITAM",
+                "store_address": "61-01, Jalan Pisang Embun, 11500 Ayer Itam, Penang",
+                "store_link": "https://goo.gl/maps/Yi2FrvsvdPvTU3LF7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Tanjung Tokong",
+                "store_address": "A-G-8, Vantage Desiran, Jalan Desiran Tanjung, 10470 Tanjung Tokong, Pulau Pinang",
+                "store_link": "https://goo.gl/maps/GwfHi6UVsL3D59um9"
+            }
+        ],
+        "kelantan": [
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Sultan Yahya Petra, Lundang, KB",
+                "store_address": "Lot 2128(GF), Jalan Sultan Yahya Petra, 15200 Kota Bharu, Kelantan",
+                "store_link": "https://maps.app.goo.gl/7uwonBiP8Jw9VPNXA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Baru Jelawat, Bachok",
+                "store_address": "PT 4478 (GF), Bandar Baru Jelawat, Mukim Rusa, 16070 Jelawat, Bachok, Kelantan.",
+                "store_link": "https://maps.app.goo.gl/hmJaN5BjcVi4oxAi8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pengkalan Chepa, Kelantan",
+                "store_address": "PT1230 (GF), Jalan Pengkalan Chepa, Taman Bendahara 16100 Kota Bharu, Kelantan.",
+                "store_link": "https://maps.app.goo.gl/j7tThJ19FepDZU8eA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Baru Pasir Puteh, Kelantan",
+                "store_address": "PT3032 (GF), Kg Bonggol Kerian, Bandar Baru Pasir Puteh 16800 Pasir Puteh, Kelantan.",
+                "store_link": "https://maps.app.goo.gl/io8bd9d2jj5JRebE7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Berek 12, Kota Bharu",
+                "store_address": "PT 2300-A (GF), Jalan Abdul Kadir Adabi, Desa Pondok Indah 15200 Kota Bharu, Kelantan.",
+                "store_link": "https://maps.app.goo.gl/LZAjzdRZRWcracuJ7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Baru Tumpat",
+                "store_address": "PT3817 (GF), Jalan Bandar Tumpat 16200 Tumpat, Kelantan",
+                "store_link": "https://maps.app.goo.gl/jdC2DRCZg3VoBGFy8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 G-Orange Mall Gua Musang",
+                "store_address": "GFC-09 & GFC-10, Ground Floor, Jalan Cengal, Bandar Utama, 18300, Kelantan",
+                "store_link": "https://maps.app.goo.gl/WK4VqVtsc9CrRPNU9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Tasek Raja",
+                "store_address": "Lot 579 (GF) Bandar Tasek Raja 17000 Pasir Mas,Kelantan.",
+                "store_link": "https://maps.app.goo.gl/wyfwFcLgRx8pXoPZ7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Tanah Merah",
+                "store_address": "Pt 461-G Jalan Tasek 17500 Tanah Merah, Kelantan.",
+                "store_link": "https://maps.app.goo.gl/xsCJcySYzKzUS5Va8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Temenggong",
+                "store_address": "No. 365-I,Tingkat Bawah,Jalan Temenggong,15000,Kota Bharu,Kelantan",
+                "store_link": "https://goo.gl/maps/FPh6im3BMo99hLRT8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MYDIN Tunjong",
+                "store_address": "Lot GB-12 & GB-13, Ground Floor Level, Mydin Tunjong, Lot PT 666, Jalan Kuala Krai, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
+                "store_link": "https://goo.gl/maps/mUjYjjzAizhiYy4B9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kuala Krai",
+                "store_address": "No 12, Ground Floor, Jalan LF 1, Laman Firdaus, Bandar Baru Kuala Krai 18000 Kuala Krai, Kelantan",
+                "store_link": "https://goo.gl/maps/TGXb9ZsB5kUHvoYe9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 H Elite Design Hotel, Tunjong",
+                "store_address": "AG-G-02 & AG-G-03, Alwaqf @ Tunjong, Jalan Kuala Krai, 16010 Kota Bahru, Kelantan Darul Naim.",
+                "store_link": "https://goo.gl/maps/9mC58Uy8uR59uoKA9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 KB Mall",
+                "store_address": "GK-33, 33A, 41 & 42, Ground Floor, KB Mall, 1, Jalan Hamzah, Seksyen 16, 15050 Kota Bharu, Kelantan",
+                "store_link": "https://goo.gl/maps/7RgWgx2LGt38TPCR6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Kota Bharu",
+                "store_address": "S47 & S48B, Second Floor, AEON Mall Kota Bharu, Lembah Sireh, 15050 Kota Bharu, Kelantan",
+                "store_link": "https://goo.gl/maps/iCFuakQZoxkoSQDR9"
+            }
+        ],
+        "terengganu": [
+            {
+                "store_name": "ZUS Coffee \u2013 Kerteh",
+                "store_address": "Lot 50082 (GF), Kg Baru Kertih, 24300 Kerteh, Terengganu",
+                "store_link": "https://maps.app.goo.gl/VDKoKZEASfLK35sw6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Universiti Malaysia Terengganu (Kompleks Siswa)",
+                "store_address": "Lot 021, Aras Bawah Kompleks Siswa Universiti Malaysia Terengganu 21030 Kuala Nerus, Terengganu",
+                "store_link": "https://maps.app.goo.gl/6eaZspBjBBmSJC1f7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Universiti Sultan Zainal Abidin (Laman Selera)",
+                "store_address": "ZUS Coffee @ Laman Selera, Universiti Sultan Zainal Abidin, Kampus Gong Badak, 21300 Kuala Terengganu, Terengganu",
+                "store_link": "https://maps.app.goo.gl/DxdacAyYQKakJxP36"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kampung Laut, Kuala Terengganu",
+                "store_address": "PT 3632 Tingkat Bawah, Jalan Alam Mutiara 1/1, Alam Mutiara, Jalan Kg Laut, 21100 Kuala Terengganu Terengganu.",
+                "store_link": "https://maps.app.goo.gl/fEc4vQ8d1LKVbCLE9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pusat Niaga Paka, Terengganu",
+                "store_address": "49-G, PT 228, Jalan Besar, Pusat Niaga Paka, Kampung Cacar, 23100 Paka, Terengganu.",
+                "store_link": "https://maps.app.goo.gl/XFppFAeo4zJ699ED8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Paya Bunga Square",
+                "store_address": "PK-02, Aras Bawah, Kompleks Paya Bunga Square, Jalan Masjid Abidin, 20100 Kuala Terengganu",
+                "store_link": "https://maps.app.goo.gl/aXUyW86nBiQ6a7fa6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Dungun",
+                "store_address": "Blok A, No.5, Tingkat Bawah, Jalan Besar Sura Gate, KPLK Perniagaan Suria Gate, 23000 Dungun, Terengganu Darul Iman",
+                "store_link": "https://maps.app.goo.gl/moA8LxrgJFja69U4A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jerteh",
+                "store_address": "Lot 201,Jalan Tuan Hitam, 22000, Jerteh, Terengganu",
+                "store_link": "https://maps.app.goo.gl/VCXb2mE1q3bXSGkv5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Dataran Austin",
+                "store_address": "PT35394 , Ground Floor, Dataran Austin, Jalan Gong Badak Kg Wakaf Tembesu, 21300, Kuala Terengganu, Terengganu",
+                "store_link": "https://goo.gl/maps/U8CpMQ2RKwqrX63k7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Chukai",
+                "store_address": "PT 11296 (Ground Floor), Jalan Kubang Kurus, Taman Cukai Utama, 24000 Chukai, Terengganu",
+                "store_link": "https://goo.gl/maps/eu78fx8E2eqgqXU46"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kuala Berang",
+                "store_address": "Lot G-264, Jalan Ajil \u2013 Kuala Berang, Kampung Rahmat, 21700 Kuala Berang, Terengganu Darul Iman.",
+                "store_link": "https://goo.gl/maps/t2odGvjrqtCdhPL78"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 KTCC Mall Kuala Terengganu",
+                "store_address": "LOT G-17, KTCC Mall, 219, Jalan Sultan Zainal Abidin, 20200 Kuala Terengganu, Terengganu",
+                "store_link": "https://goo.gl/maps/LTAxsGkW7CpJYqCU9"
+            },
+            {
+                "store_name": "JALAN PEJABAT, KUALA TERENGGANU",
+                "store_address": "1106, Jalan Pejabat, 20200 Kuala Terengganu, Terengganu",
+                "store_link": "https://goo.gl/maps/2c6kyZfukCfGjJyYA"
+            }
+        ],
+        "perak": [
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Langkap, Perak",
+                "store_address": "No.35 (Ground Floor), Jalan Lorong 1, Perumahan Awam Langkap II, 36700 Langkap, Perak.",
+                "store_link": "https://maps.app.goo.gl/oaYHNT1hUUkVqPfG9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taiping Sentral Mall",
+                "store_address": "GPS-06, Ground Floor, Taiping Sentral Mall, 36, Jalan Istana Larut, 34000 Taiping, Perak",
+                "store_link": "https://maps.app.goo.gl/zVvZTued5kmt5rn49"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MYDIN Parit Buntar",
+                "store_address": "Lot G-09 (Ground Floor), Mydin Mall Parit Buntar, Kerian Sentral Mall, Lot 23252, Jalan Sekolah, 34200 Parit Buntar, Perak.",
+                "store_link": "https://maps.app.goo.gl/8Ly3qVugxiV2nLCKA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Universiti Tunku Abdul Rahman, Kampar (Student Pavilion I)",
+                "store_address": "C109 & C110 (Upper Ground Floor), Student Pavilion I Universiti Tunku Abdul Rahman (Kampar Campus)",
+                "store_link": "https://maps.app.goo.gl/z4scpbZ4t25cHgL87"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bidor, Perak",
+                "store_address": "No.8 (Ground Floor), PT 2324, Jalan Persatuan, 35500 Bidor, Perak.",
+                "store_link": "https://maps.app.goo.gl/gE1qVc4yxQ8bX64s8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Greentown Business Centre",
+                "store_address": "No.21 (Ground Floor), Persiaran Greentown 8, Pusat Perdagangan Greentown, 30450 Ipoh, Perak.",
+                "store_link": "https://maps.app.goo.gl/9SRjXbinf9d9ujB6A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Gerik, Perak",
+                "store_address": "No.14 (Ground Floor), Jalan Bija Di Raja, Pekan Gerik, 33300 Perak.",
+                "store_link": "https://maps.app.goo.gl/SZ9g6RPvcVJ54dNL9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Hutan Melintang, Perak",
+                "store_address": "No.8 (Ground Floor), Lorong Lagenda 8 (BDI38/50), Medaniaga Lagenda, 36400 Hutan Melintang, Perak Darul Ridzuan.",
+                "store_link": "https://maps.app.goo.gl/uQj2XcFgci5sLmuP6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pantai Remis",
+                "store_address": "No. 40 (Ground Floor), Jalan Sungai Batu, Kampung Mangsa Ribut, 34900 Pantai Remis, Perak",
+                "store_link": "https://maps.app.goo.gl/TScgmXFTXRmRovA66"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Raja Omar, Sitiawan",
+                "store_address": "No.51C (Ground Floor), Jalan Raja Omar, 32000, Sitiawan Perak.",
+                "store_link": "https://maps.app.goo.gl/F1RwmGgsafYJeXJy9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Tasek Jaya, Ipoh",
+                "store_address": "No. 761 (Ground Floor), Jalan Kuala Kangsar, Taman Tasek Jaya, 31400 Ipoh Perak",
+                "store_link": "https://maps.app.goo.gl/ZDbsWMWvj1GoUFiv7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Sungkai",
+                "store_address": "18G, Jalan Sentral Sungkai 1, Taman Sungkai Perdana, 35600 Sungkai, Perak",
+                "store_link": "https://maps.app.goo.gl/Up9TVfNebca1oY4V7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Tapah",
+                "store_address": "No.53A Jalan Besar, 35000 Tapah, Perak.",
+                "store_link": "https://maps.app.goo.gl/U3hi5w9XoRihQUHw8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Ayer Tawar",
+                "store_address": "No.35 (GF), Jalan Besar, 32400, Ayer Tawar, Perak.",
+                "store_link": "https://maps.app.goo.gl/TEAqCxV1rLoTcbGN8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Canning II Ipoh",
+                "store_address": "No. 29 (GF), Hala Pusat Perdagangan Canning 1, Pusat Perdagangan Canning II, 30350 Ipoh, Perak.",
+                "store_link": "https://maps.app.goo.gl/u29G4zJ6wxqfj6qn8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Lumut Indah 2",
+                "store_address": "No. 10 (Ground Floor), Jalan Lumut Indah 2/1, Taman Lumut Indah 2, 32200 Lumut, Perak.",
+                "store_link": "https://maps.app.goo.gl/3GT9BEEqfWKSzMWb8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Silverlakes Village",
+                "store_address": "N3-41. North Village. Silverlakes Village Outlet Kinta Valley, 31000 Batu Gajah, Perak.",
+                "store_link": "https://maps.app.goo.gl/fcamPofLFsEAmdn49"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Ipoh Sunway City",
+                "store_address": "No.4 (Ground Floor), Jalan Darul Johan Batu 5, Sunway City, 31400 Tambun, Perak",
+                "store_link": "https://maps.app.goo.gl/ZNzLhMUESjFwBqSw8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Caltex Selama",
+                "store_address": "Lot 5863, Jalan Sir Chulan, 34100, Selama, Perak",
+                "store_link": "https://maps.app.goo.gl/co8dPQNFAGUukM9m6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Silibin",
+                "store_address": "1, Jalan Pusat Perniagaan Pertama, Pusat Perniagaan Pertama, 30100, Ipoh, Perak",
+                "store_link": "https://maps.app.goo.gl/X79HkA2ixiKEDeoP9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sungai Siput",
+                "store_address": "No 12, Ground Floor, Persiaran Pesona 1, Medan Pesona, 31100 Sungai Siput, Perak Darul Ridzuan.",
+                "store_link": "https://goo.gl/maps/qayfuoC8cUYEqbRcA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Slim River",
+                "store_address": "No 90-A, Jalan Perdana 5, Pusat Perniagaan Slim Perdana, 35800 Slim River, Perak Darul Ridzuan.",
+                "store_link": "https://goo.gl/maps/T1B2ciAWtVK1zu3N8?coh=178572&entry=tt"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Seri Manjung",
+                "store_address": "Lot G039 & G40, Pusat Perniagaan, Jalan Manjung Point 3, 32040 Seri Manjung, Perak.",
+                "store_link": "https://goo.gl/maps/8CTWYXAgyYoyZ1as6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Kinta City",
+                "store_address": "Lot F65, Jalan Sultan Azlan Shah, Bandar Baru Medan Ipoh, 31400 Ipoh, Perak.",
+                "store_link": "https://goo.gl/maps/otGRcjqDqm7u7DYc6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Ipoh Station 18",
+                "store_address": "Lot KS2. No.2, Susunan Stesen 18, Station 18, 31650 Ipoh, Perak.",
+                "store_link": "https://goo.gl/maps/erxcpNfHA61d374t5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Ipoh Parade",
+                "store_address": "Unit G03, Ipoh Parade Mall, 105, Jalan Sultan Abdul Jalil, Pusat Perdagangan Greentown, 30450 Ipoh, Perak.",
+                "store_link": "https://goo.gl/maps/4ePtJrb17m9ezkjM9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pejabat Pos Besar Ipoh",
+                "store_address": "Pejabat Pos Besar Ipoh. JKR 5120, Jalan Kelab, 30670 Ipoh, Perak.",
+                "store_link": "https://goo.gl/maps/uZsAY2h3SgHqjD3VA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taiping Mall",
+                "store_address": "Lot G-02, Ground Floor, Taiping Mall, Jalan Tupai, 34000 Taiping Perak Darul Ridzuan",
+                "store_link": "https://goo.gl/maps/dUPDYJxc39PYmfoe9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Ipoh Klebang",
+                "store_address": "G21, Ground Floor, AEON Mall Ipoh Klebang, Laluan Klebang Restu 40, 31200 Chemor, Perak",
+                "store_link": "https://goo.gl/maps/Yk1dKgcwcfbb5Xov9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Meru Raya",
+                "store_address": "No 14 (Ground Floor), Jalan Meru Bestari B2, Medan Meru Bestari, 30020 Ipoh, Perak Darul Ridzuan",
+                "store_link": "https://goo.gl/maps/6wQ8XdmALbi94MN48"
+            },
+            {
+                "store_name": "SERI ISKANDAR, PERAK",
+                "store_address": "No 25 (Ground Floor), Persiaran SIBC 2, Business Centre, 31620 Seri Iskandar, Perak",
+                "store_link": "https://goo.gl/maps/PwAS2BzMbXPrUTeq6"
+            },
+            {
+                "store_name": "IPOH SOUTHGATE, PERAK",
+                "store_address": "No 13 (Ground Floor), Jalan Pulai Hartamas 1, Medan Pulai Hartamas, 31300 Ipoh, Perak",
+                "store_link": "https://goo.gl/maps/6PYrrAsa39D2YdeE9"
+            },
+            {
+                "store_name": "KUALA KANGSAR",
+                "store_address": "No 4D (Ground Floor), Jalan Raja Chulan, 33000 Kuala Kangsar, Perak",
+                "store_link": "https://goo.gl/maps/Y6TZmjDDC6NHDq9y6"
+            },
+            {
+                "store_name": "TAIPING PEKELILING",
+                "store_address": "No. 8 & 10, Off, Jalan Pekeliling, Taman Tasik Commercial Centre, 34000 Taiping, Perak",
+                "store_link": "https://goo.gl/maps/PythDbdjadxPvBdk8"
+            },
+            {
+                "store_name": "KAMPAR",
+                "store_address": "2234, Ground Floor, Jalan Batu Sinar, Taman Bandar Baru, 31900 Kampar, Perak",
+                "store_link": "https://goo.gl/maps/TYNDDpSch5R7tB678"
+            },
+            {
+                "store_name": "TANJUNG MALIM",
+                "store_address": "No 24A (Ground Floor, Jalan Taman Sri Indah, Taman Sri Indah Utama, 35900 Tanjong Malim, Perak",
+                "store_link": "https://goo.gl/maps/9os2tVGgmM6KnU5L9"
+            },
+            {
+                "store_name": "BATU GAJAH PERDANA",
+                "store_address": "No 1 (Ground Floor), Persiaran BG Perdana 1, Pusat Komersial BG Perdana, 31000 Batu Gajah, Perak",
+                "store_link": "https://goo.gl/maps/Upwqea6XaggTaXwa9"
+            },
+            {
+                "store_name": "SERI MANJUNG, SITIAWAN",
+                "store_address": "29, Jalan PPMP 3/1, 32040 Seri Manjung, Perak",
+                "store_link": "https://goo.gl/maps/Rfcwpa6kM34PQH4D7"
+            },
+            {
+                "store_name": "BANDAR BARU TELUK INTAN",
+                "store_address": "7, Ground Floor, Jalan Intan 1, Bandar Baru Teluk Intan, 36000 Teluk Intan, Perak",
+                "store_link": "https://goo.gl/maps/j9tnofhbXRYkMk418"
+            },
+            {
+                "store_name": "PARIT BUNTAR",
+                "store_address": "No. 38, Ground Floor, Jalan Wawasan 4, Taman Wawasan Jaya, 34200 Parit Buntar, Perak",
+                "store_link": "https://goo.gl/maps/rFqJr2CFZEocPmcdA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Medan Saujana Kamunting, Taiping",
+                "store_address": "51, Jalan Medan Saujana, Medan Saujana, 34600 Kamunting, Perak",
+                "store_link": "https://maps.app.goo.gl/JC1SnsyAvPt9V7TS9"
+            },
+            {
+                "store_name": "IPOH PENGKALAN STATION 18",
+                "store_address": "34, Jalan Pengkalan Putra 1, Pusat Perniagaan Pengkalan Putra, 31650 Ipoh, Perak",
+                "store_link": "https://goo.gl/maps/MnpFn5yvP5fqBJaL8"
+            },
+            {
+                "store_name": "IPOH BOND SQUARE",
+                "store_address": "11, Ground Floor, Jalan Niaga Simee 1, Pusat Perniagaan Simee (Bond Square), 31400 Ipoh, Perak",
+                "store_link": "https://goo.gl/maps/Q6C3MqzfgdLBGMJW9"
+            }
+        ],
+        "pahang": [
+            {
+                "store_name": "ZUS Coffee \u2013 Bukit Setongkol, Kuantan",
+                "store_address": "No.A11 (GF), Lorong Cenderawasih 1, Taman Tunas Makmur, Bukit Setongkol, 25200 Kuantan, Pahang.",
+                "store_link": "https://maps.app.goo.gl/Q6PQsHXX3HgeRt329"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Timur Bay Beach Resort, Kuantan",
+                "store_address": "TR-16, Timur Bay @ Balok, Jalan Kuantan \u2013 Kemaman, 26100 Kuantan, Pahang.",
+                "store_link": "https://maps.app.goo.gl/wPvnRsbyMJGYnpM1A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Triang Sentral",
+                "store_address": "No. 32(GF) , Jalan Sentral Triang 6, Triang Sentral, 28300 Triang, Pahang.",
+                "store_link": "https://maps.app.goo.gl/7dJZmp6vJao1TLsm7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Genting Xintiandi Sales Gallery",
+                "store_address": "Genting Xintiandi Sales Gallery, Lot 10363, Genting Permai, 69000 Genting Highlands, Pahang",
+                "store_link": "https://maps.app.goo.gl/FfARxePupkzkQbSo9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Mentakab",
+                "store_address": "No.131 (Ground Floor) Jalan Melati 28400 Mentakab, Pahang.",
+                "store_link": "https://maps.app.goo.gl/2RFUjYJxib9UtAt27"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Muadzam Shah",
+                "store_address": "No. 25-G, Jalan Pms 3 1/1, Taman Perindustrian Muadzam Shah 3, 26700 Muadzam Shah, Pahang Darul Makmur.",
+                "store_link": "https://maps.app.goo.gl/Rkr9Y3UGsZXrjpMz6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 SkyAvenue",
+                "store_address": "Lot No.T2A-39A & 40 of Level T2A, SkyAvenue, Genting Highlands Resort, 69000 Genting Highlands, Pahang",
+                "store_link": "https://maps.app.goo.gl/7ftZV96iSgSSswUH8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 CALTEX Simpang Gambang",
+                "store_address": "Lot 10759, Batu 18, Jalan Gambang, 26300 Kuantan, Pahang",
+                "store_link": "https://maps.app.goo.gl/vyKLtTnGAyohPLGy6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Balok Kuantan",
+                "store_address": "A23 (Ground Floor), Lorong Balok Darat 13, 26100 Kuantan, Pahang Darul Makmur",
+                "store_link": "https://maps.app.goo.gl/itWZC4dGxS5citRB9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Genting 1 (First World)",
+                "store_address": "Lot No.T2A-K03, Level 2, First World Plaza, Genting Highlands Resort, 69000 Genting Highlands, Pahang.",
+                "store_link": "https://maps.app.goo.gl/q3n2hAGVqj9yRmWs8"
+            },
+            {
+                "store_name": "Zus Coffee \u2013 Bandar Baru Jerantut",
+                "store_address": "TT6, Tingkat 1, Jalan Dulang 1, Bandar Baru, 27000 Jerantut, Pahang.",
+                "store_link": "https://maps.app.goo.gl/6nshQhUsUPjcSkBn8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kuala Lipis PP Barry",
+                "store_address": "No 13 (Ground & Mezzanine Floor), Jalan Pusat Perniagaan Barry, Pusat Perniagaan Barry @ Kuala Lipis, 27200 Kuala Lipis, Pahang Darul Makmur.",
+                "store_link": "https://goo.gl/maps/kRus6yAYeiPeLdKs9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 East Coast Mall",
+                "store_address": "L2-39. East Coast Mall. Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang.",
+                "store_link": "https://goo.gl/maps/udzHNTv19MusbCMu6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jengka",
+                "store_address": "K-08 (Ground Floor), Lorong TARBP 6, Tun Abdul Razak Business Park, 26400 Bandar Pusat Jengka, Pahang Darul Makmur.",
+                "store_link": "https://goo.gl/maps/mB8jsoLMkPeq8sLA8"
+            },
+            {
+                "store_name": "INDERA MAHKOTA 7, KUANTAN",
+                "store_address": "B4-G, Jalan IM 7/5, Bandar Indera Mahkota, 25200 Kuantan, Pahang",
+                "store_link": "https://goo.gl/maps/NgNuBi3NtG2iPMyZ8"
+            },
+            {
+                "store_name": "CAMERON CENTRUM",
+                "store_address": "A-G-11, Presint 1 Cameron Centrum, 39100 Brinchang, Pahang",
+                "store_link": "https://goo.gl/maps/qSWjkMkW2fThWtuM9"
+            },
+            {
+                "store_name": "JLN BESERAH, KUANTAN",
+                "store_address": "B-298 (Ground Floor), Jalan Beserah, 25300 Kuantan, Pahang",
+                "store_link": "https://goo.gl/maps/8MDG1E3kdke6QoL68"
+            },
+            {
+                "store_name": "TEMERLOH",
+                "store_address": "No 53 (Ground Floor, Jln Ahmad Shah 1, Pusat Komersil, 28000 Temerloh, Pahang",
+                "store_link": "https://goo.gl/maps/cCAEAvzKYJk3xPyo9"
+            },
+            {
+                "store_name": "RAUB",
+                "store_address": "No 28 (Ground Floor), Pusat Perniagaan Raub, 27600 Raub, Pahang",
+                "store_link": "https://goo.gl/maps/786tgye5LJHuHV1t5"
+            },
+            {
+                "store_name": "BENTONG",
+                "store_address": "29, Jalan Loke Yew, 28700 Bentong, Pahang",
+                "store_link": "https://goo.gl/maps/wkdXdycB9XoCNW4R8"
+            }
+        ],
+        "negeri-sembilan": [
+            {
+                "store_name": "ZUS Coffee TR \u2013 Seremban RSA SouthBound (SB)",
+                "store_address": "Unit 3 (Food Truck), Seremban RSA Southbound, North-South Expy, 71900 Negeri Sembilan",
+                "store_link": "https://maps.app.goo.gl/JVQh8s5xLydk8ArL8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Dato Sheikh Ahmad, Seremban",
+                "store_address": "No.13 (Ground Floor), Jalan Dato Sheikh Ahmad, 70000 Seremban, Negeri Sembilan.",
+                "store_link": "https://maps.app.goo.gl/yUkCqXd8HHX8o7UQ9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Gurney, Bahau",
+                "store_address": "No. 133 (Ground Floor), Jalan Gurney, 72100 Bahau, Negeri Sembilan.",
+                "store_link": "https://maps.app.goo.gl/W3eYrYRqZXr1sHX1A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 SHELL S2 Height",
+                "store_address": "PT37328, Jalan Rimbun Indah 2, Seremban 2, 70300 Seremban, Negeri Sembilan",
+                "store_link": "https://maps.app.goo.gl/JobbR1UQYdjdZL899"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Nilai",
+                "store_address": "KS05, Second Floor, Aeon Mall Nilai, 2, Persiaran Pusat Bandar, Putra Point, 71800 Nilai, Negeri Sembilan",
+                "store_link": "https://maps.app.goo.gl/pJeoPcawp1n4hipD8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Seri Rembau",
+                "store_address": "376-G, Jalan Dato Lela Maharaja, Taman Seri Rembau, 71300 Rembau, Negeri Sembilan",
+                "store_link": "https://maps.app.goo.gl/rRAdpkr1ygyRCGxF7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pusat Komersial Rasah Prima",
+                "store_address": "No.43G, Jalan Rasah Prima 3, Pusat Komersial Rasah Prima, 70300 Seremban, Negeri Sembilan.",
+                "store_link": "https://maps.app.goo.gl/1mWD4R1K62jXtTgC7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 PD Waterfront",
+                "store_address": "Kedai 2 (Glass House), PD Waterfront, 1-02-1, Persiaran Waterfront, 1st Mile, 71000 Port Dickson, Negeri Sembilan",
+                "store_link": "https://maps.app.goo.gl/cLhzt2HC2cyJoT3B7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Mesamall Nilai",
+                "store_address": "Persiaran Ilmu, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan",
+                "store_link": "https://maps.app.goo.gl/UF4ZrYeJkFjA5Ju97"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pusat Bandar Putra Nilai",
+                "store_address": "PT 12172 (Ground Floor), Jalan BBN 1/1F, Putra Nilai, 71800 Nilai, Negeri Sembilan.",
+                "store_link": "https://maps.app.goo.gl/GyhRj6gLRrfoiu216"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Gemas",
+                "store_address": "PT 4633-G, Ground Floor, Jalan Pekan Gemas, Pekan Gemas, 73400 Gemas, Negeri Sembilan",
+                "store_link": "https://goo.gl/maps/gxJuGDgAPBwhK19v5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Lotus\u2019s Nilai",
+                "store_address": "Lot G 41. 1, Jalan BBN 1/3, Putra Point, 71800 Nilai, Negeri Sembilan.",
+                "store_link": "https://goo.gl/maps/wYod24xnzrmRkS8h8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Seremban Prima Mall",
+                "store_address": "Lot G11, Ground Floor, Jalan Dato Bandar Tunggal, 70000 Seremban, Negeri Sembilan.",
+                "store_link": "https://goo.gl/maps/7v5omJDbBYap41F27"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sunggala Gateway",
+                "store_address": "No 7-G (Ground Floor), Jalan PDS 2, PD Sunggala Gateway, Teluk Kemang, 71050 Port Dickson, Negeri Sembilan.",
+                "store_link": "https://goo.gl/maps/4cb4YWnyTSvENSRK6"
+            },
+            {
+                "store_name": "BANDAR ENSTEK",
+                "store_address": "No 31 (Ground Floor), 1A, Jalan Timur 6, Timur@Enstek, 71760 Bandar Baru Enstek, Negeri Sembilan",
+                "store_link": "https://goo.gl/maps/wR8tRTvq1s7d5C6PA"
+            },
+            {
+                "store_name": "TAMPIN",
+                "store_address": "No 14 (Ground Floor), Jalan Besar, 73000 Tampin, Negeri Sembilan",
+                "store_link": "https://goo.gl/maps/gTA75iSg39nC6mUR9"
+            },
+            {
+                "store_name": "BANDAR PRIMA SENAWANG",
+                "store_address": "No. 91-G, Jalan BPS5, Bandar Prima Senawang, 70450 Seremban, Negeri Sembilan",
+                "store_link": "https://goo.gl/maps/EzGYH6iDTFQNnsv99"
+            },
+            {
+                "store_name": "CENTRIO SQUARE, SEREMBAN 2",
+                "store_address": "Pusat Dagangan, 126-G, Jln S2 B21, Seremban 2, 70300 Seremban, Negeri Sembilan",
+                "store_link": "https://goo.gl/maps/mrLcgXdy8egNC5719"
+            },
+            {
+                "store_name": "PALM MALL SEREMBAN",
+                "store_address": "UG-29, Palm Mall, Jalan Sungai Ujong, 70200 Seremban, Negeri Sembilan Darul Khursus.",
+                "store_link": "https://goo.gl/maps/SH8sFQrhGQifNCDh7"
+            }
+        ],
+        "kuala-lumpur-selangor": [
+            {
+                "store_name": "ZUS Coffee \u2013 Lebuh Turi, Klang",
+                "store_address": "Lot No. 88 (Ground Floor), Lebuh Turi, Taman Chi Liung, 41200 Klang, Selangor",
+                "store_link": "https://maps.app.goo.gl/cMVfNAymsUxDVHWK6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Ground Floor, Menara IQ",
+                "store_address": "Unit 001, Ground Floor, Menara IQ, TRX 55188 Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/BPGx2vU7o7WLXtUs6"
+            },
+            {
+                "store_name": "ZUS, Coffee Meets Pastry \u2013 1 Utama Shopping Centre",
+                "store_address": "Lot G601A, Ground Floor, 1 Utama Shopping Centre, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/Qd3UY7VnZNVdPeQU9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Segar Perdana, Cheras",
+                "store_address": "No 07GF) Jalan Segar Perdana 2, Taman Segar Perdana, 43200 Cheras, Selangor.",
+                "store_link": "https://maps.app.goo.gl/3ZVWQuWBvvk32DfV8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sabak Bernam",
+                "store_address": "No.100 (Ground Floor), Jalan Menteri, Pekan Sabak, 45200 Sabak Bernam, Selangor",
+                "store_link": "https://maps.app.goo.gl/GfSJqhuBsUJbtr5M9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Kebun Nenas, Klang",
+                "store_address": "No 47-G Jalan Kebun Nenas 7A/KS8, Bandar Putera 2, 41200 Klang, Selangor",
+                "store_link": "https://maps.app.goo.gl/Bvkksy8u6HjkSVRZ7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Menara TH Perdana",
+                "store_address": "Unit L02,Tingkat Bawah, Jln Sultan Ismail, Chow Kit, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/7uwonBiP8Jw9VPNXA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MRT Bandar Utama",
+                "store_address": "MRT Bandar Utama (Kajang Line), Station Concourse area, Persiaran Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor.",
+                "store_link": "https://maps.app.goo.gl/FzLWWCFfbpqx7mTB7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Micasa Shoppes, Jalan Tun Razak",
+                "store_address": "Lot G.11 & Mezzanine, Micasa Shoppes, 368A, Jln Tun Razak, Taman U Thant, 55000 Kuala Lumpur, Wilayah Persekutuan",
+                "store_link": "https://maps.app.goo.gl/QEMe5NRA75F4wNDS8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Wisma TH Plaza Sentral",
+                "store_address": "L-01B, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50470 Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/6q5uPX6uy64oBC2VA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pertama Complex, Kuala Lumpur",
+                "store_address": "Kiosk No. 3, Kompleks Pertama, Jalan Tuanku Abdul Rahman, 50100 Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/qaW4ZmnjGioUqLYV8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Kapar, Klang",
+                "store_address": "No. 228 (Ground Floor), Jalan Besar KU/13, Pekan Kapar, 42200 Kapar, Selangor",
+                "store_link": "https://maps.app.goo.gl/by7nC4Lsh7aMRusSA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sri Rampai, Setapak",
+                "store_address": "No.39 (Ground Floor), Jalan 45/26 Taman Sri Rampai, 53300 Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/UFPhAXiUpmb2v9X57"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bloomsvale Shopping Gallery",
+                "store_address": "G-018, Level Ground Floor, Bloomsvale Shopping Gallery, 137, Jalan Puchong, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/uYE7LuvdEp2yugjXA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Mahkota Cheras",
+                "store_address": "GK-01, BMC Mall. Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor.",
+                "store_link": "https://maps.app.goo.gl/NJcrYqQpzVxSY3R1A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 KL Traders Square",
+                "store_address": "51-G, KLTS, NO. 99, JALAN GOMBAK, SETAPAK, 53000, KUALA LUMPUR",
+                "store_link": "https://maps.app.goo.gl/ovNcaWjp4BCQgJbp7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Kinrara 5, Puchong",
+                "store_address": "No 10(GF), Jalan BK 5A/2C, Bandar Kinrara 5, 47180 Puchong, Selangor",
+                "store_link": "https://maps.app.goo.gl/SFmvcBUEDf4GNZZd8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 KPJ Kajang Specialist Hospital",
+                "store_address": "KPJ Kajang Specialist Hospital, Jalan Cheras, Kampung Sungai Kantan, 43000 Kajang, Selangor.",
+                "store_link": "https://maps.app.goo.gl/cV26tGNhZYm3Jtgm8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kuala Kubu Baru",
+                "store_address": "No.18(GF), Jalan Mat Kilau, Pekan Kuala Kubu Bharu, 44000 Kuala Kubu Baru, Selangor",
+                "store_link": "https://maps.app.goo.gl/vfdaNXFcxBcmHrq16"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Menara Axis, Petaling Jaya",
+                "store_address": "Grd-05, Ground Floor, Menara Axis, No 2, Jalan 51A/ 223,46100 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/GLtte1nwwryXQqKC8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Central I-City",
+                "store_address": "Lot L1-10A, Level One, Central I-City, No. 1, Persiaran Multimedia, Seksyen 7, Jalan Plumbum 7/102, I-City, 40000 Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/St1WubMeyce9k1Eh9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Sri Muda",
+                "store_address": "No.16-G (Ground Floor), Jalan Murni 25/61, Taman Sri Muda, 40400 Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/KJqteAwTt7SUEaik9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Alam Avenue 2, Shah Alam Seksyen 16",
+                "store_address": "C-15-G, Jalan Serai Wangi L 16/L, Seksyen 16, Alam Avenue 2, 40200 Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/VweJD4e4SZETjWmD7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kuchai Entrepreneurs Park",
+                "store_address": "No. 29 (Ground Floor), Jalan 1/116 B, Off, Jalan Kuchai Lama, Kuchai Entrepreneurs Park, 58200 Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/1DQNDZUjKwhAr89X7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalil Link 1, Bukit Jalil",
+                "store_address": "No.20(GF), Jalan Jalil Jaya 2, Jalil Link, Bukit Jalil 57000 WP Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/GgafJATLe1djdh5z5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Menara Technip Energies",
+                "store_address": "Menara Technip Energies, 38, Jalan Inai, Imbi, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/2qhwJWG5A8jf4poW7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jakel Mall, Kuala Lumpur",
+                "store_address": "Lot SC.02 & SC.03, Jakel Mall, Lot 159, Jakel Square Off, Jalan Munshi Abdullah, City Centre, 50100 Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/SinZDdy8GsWQohhr6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Anggun City, Rawang",
+                "store_address": "Lot 40-1, Pusat Komersial Anggun City, 1, Jalan Anggun City 1, Taman Anggun, 48000 Rawang, Selangor",
+                "store_link": "https://maps.app.goo.gl/pNRC9HwFT298kdUaA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Olive Business Park, Seri Kembangan",
+                "store_address": "No 36 (LG), Jalan BS 1/3, Pusat Perdagangan Olive Hill, Taman Bukit Serdang Seksyen 1, 43300 Seri Kembangan, Selangor.",
+                "store_link": "https://maps.app.goo.gl/ecQ6XHq5W4oN447aA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bukit Tinggi 1",
+                "store_address": "No.26-G, Lorong Batu Nilam 3a, Bandar Bukit Tinggi 41200 Klang",
+                "store_link": "https://maps.app.goo.gl/zM1roarwqnoHVk7YA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 CALTEX Eco Ardence",
+                "store_address": "No. 2, Jalan Eco Ardence U12/36, Seksyen U12 40170, Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/kZxYiKdfidnaDftEA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Seri Mas 1, Hulu Langat",
+                "store_address": "No.33 (Ground Floor), Jalan Seri Mas 1, Taman Seri Emas, 43100 Hulu Langat, Selangor.",
+                "store_link": "https://maps.app.goo.gl/zGHiZHjhXuJDtNvo6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Semenyih",
+                "store_address": "No.40 (Ground Floor), Jalan Pasar Baru, Pekan Semenyih, 43500 Semenyih, Selangor.",
+                "store_link": "https://maps.app.goo.gl/mT7LLGgzhHkHxAUbA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Solaris Mont Kiara",
+                "store_address": "Lot K-OG-14, Soho KL Mont Kiara, No. 2, Jalan Solaris, Solaris Mont Kiara, 50480, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/Nc3SFsKZyhSSgaaF8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Cyberview 23A, Cyberjaya",
+                "store_address": "Cyberview 23A, Persiaran APEC Cyber 6, 63000 Cyberjaya Selangor",
+                "store_link": "https://maps.app.goo.gl/65eKzyJ3AYr7Ufc26"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Monash University Malaysia",
+                "store_address": "3124C, Lepak Place, Monash University Malaysia, Jalan Lagoon Selatan, 47500 Bandar Sunway, Selangor Darul Ehsan",
+                "store_link": "https://maps.app.goo.gl/yiZH7dYYP8vJFZsi7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Semua House",
+                "store_address": "GF.04, Ground Floor, Semua House, Jalan Bunus 6, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/cyFk3f3wuVoRiVCi8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Southville City",
+                "store_address": "A\u00adG\u00ad09 (Ground Floor), Savanna Lifestyle Retail Jalan BBLS 2, Bandar Baru Lembah Selatan, 43800 Dengkil, Selangor",
+                "store_link": "https://maps.app.goo.gl/D4ZHpH55QcfbryDy5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sekinchan",
+                "store_address": "No.15 (Ground Floor), Jalan Peria, Pekan Sekinchan, 45400 Sekinchan, Selangor",
+                "store_link": "https://maps.app.goo.gl/wFX1izTnAqp11QqQ7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kompleks PKNS Shah Alam",
+                "store_address": "Lot G-6 (Ground Floor), Kompleks PKNS Shah Alam, Persiaran Tasik, Seksyen 14, 40000 Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/11uRprMV9ixudpHT8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Shah Alam Seksyen 18",
+                "store_address": "15G (Ground Floor), Jalan Pinang B 18/B, Seksyen 18, 40200 Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/tV4tVt5hoCqVVS7d6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 SAMA Square",
+                "store_address": "G-02 & 02(E), Ground Floor, Same Square, Jalan 1/23c, Kampung Baru Air Panas, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/EzptbL3cArET9Nw1A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 GM Klang",
+                "store_address": "A-G-13, Ground Floor, Wholesale City Gm Klang, Jalan Kasuarina 1, Bandar Botanik, 41200 Klang, Selangor",
+                "store_link": "https://maps.app.goo.gl/KpWWdYpXUwHVqHk9A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Prima Saujana, Kajang",
+                "store_address": "No.20 (GF), Jalan Prima Saujana 1/1A, Prima Saujana 43000 Kajang Selangor.",
+                "store_link": "https://maps.app.goo.gl/eEyMwE9Vq4HixWfL6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Bukit Tinggi",
+                "store_address": "Lot F26, AEON Bukit Tinggi Shopping Centre, 1, Persiaran Batu Nilam 1, KS6, 41200, Selangor",
+                "store_link": "https://maps.app.goo.gl/ciHTbpy7nFNH1xbQA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Shah Alam Seksyen 20",
+                "store_address": "No 18, Jalan Singa D 20/D, Seksyen 20, 40300 Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/NJWvjTigi6rz1STG7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 You City III Cheras",
+                "store_address": "Lot no G-AP-8, Jalan Persiaran You City,Taman Suntex, 43200 Cheras, Selangor",
+                "store_link": "https://maps.app.goo.gl/MKWRhERopFZX9iwV8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Menara UOA Bangsar",
+                "store_address": "Lot LGF-8, Lower Ground Floor, 5, Jalan Bangsar Utama 1, Bangsar, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/9GFMf9ozWFEwVB3Q6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 TTDI Jaya, Shah Alam",
+                "store_address": "No.33 (Ground Floor), Jalan Opera F U2/F, Taman TTDI Jaya, Seksyen U2, 40150 Shah Alam.",
+                "store_link": "https://maps.app.goo.gl/y6JS8BiUbaStYPDPA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Citta Mall",
+                "store_address": "G-48 7 G-48A, Ground Floor, Citta Mall, 1, Jalan PJU 1a/48, Ara Damansara, 47301 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/AGW7mvcrQhFBKF2S6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Cubic Botanical, Pantai Dalam",
+                "store_address": "No. R2-1 (Lower Ground Floor), Residensi Rimba Pantai Dalam, No. 6, Jalan Pantai Sentral 3, Pantai Dalam, 59200 Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/2CFVnP1RUU76rsmZ8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 TTDI Grove Kajang",
+                "store_address": "No. 26, JALAN TTDI GROVE 1/1, 43000 KAJANG, SELANGOR",
+                "store_link": "https://maps.app.goo.gl/9RQRxmiGig3X6BXF9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jenjarom",
+                "store_address": "No. 37 (Ground Floor), Jalan 2/1, Taman Seri Jaromas, 42600 Jenjarom",
+                "store_link": "https://maps.app.goo.gl/jij7okFL6ZQ6oDj38"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Suasana PjH Presint 2",
+                "store_address": "Unit A-G-R10 & A-G-R11, Block A, Suasana PjH, Jalan Tun Abdul Razak, Presint 2, 62100 Putrajaya",
+                "store_link": "https://maps.app.goo.gl/KuSAsowCiPCM3ZaY7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Plaza Low yat",
+                "store_address": "Plaza Low Yat, Lot LG-04 & 05, Lower Ground Floor, 7, Jalan Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/hP7wXLwkdTDEP9Jk8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Selera Putra, Souq Putrajaya",
+                "store_address": "Lot G-005, Selera Putra, Souq Putrajaya, Presint 1, 62000 Putrajaya",
+                "store_link": "https://maps.app.goo.gl/u8mwJJX78gsH9Cd66"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Plaza Shah Alam",
+                "store_address": "S19, Second Floor, Jalan Tengku Ampuan Zabedah E 9/E, Seksyen 9, 40100 Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/jmCaSVSHEAZX1uCPA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Vista Bangi, Jalan Reko",
+                "store_address": "1-06 (Ground Floor) Vista Bangi, Jalan Reko, 43000 Kajang, Selangor.",
+                "store_link": "https://maps.app.goo.gl/cjtSfXE8JLt3kB6K6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kipmall Bangi",
+                "store_address": "1K-03A, Level 1, No. 1 Jalan Medan Bangi Business Park Bangi Golf Resort) Off, Persiaran Kemajuan, Seksyen 6, 43650 Bandar Baru Bangi, Selangor",
+                "store_link": "https://maps.app.goo.gl/uR1tJeAs3S9T1Hgy5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Universiti Malaya Centre for Continuing Education",
+                "store_address": "VIP Dining, Cyberview 23, Jalan Teknokrat 3, Cyber 4, 63000 Cyberjaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/r9fWQegqWYNN5YGh9"
+            },
+            {
+                "store_name": "Ready-To Zus \u2013 Holiday Inn Express Hotel KL",
+                "store_address": "Lot G01, Ground Floor, 84, Jalan Raja Chulan, Kuala Lumpur, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/tTGVQUum8VZxHCiDA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MSU Medical Centre",
+                "store_address": "Lot A01 (Ground Floor), MSU Medical Centre, University Drive, Off Persiaran Olahraga, Seksyen 13, 40100 Shah Alam, Selangor.",
+                "store_link": "https://maps.app.goo.gl/jqLkNUJLJTSDrwiv5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Teknologi Kajang",
+                "store_address": "No. G-8 (Ground Floor), Jalan 1/2, HILLPARK RESIDENCE, Seksyen 1 Bandar Teknologi Kajang, 43500 Semenyih, Selangor",
+                "store_link": "https://maps.app.goo.gl/9cNsY6ftsn1d5rgx9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Menara VSQ Petaling Jaya",
+                "store_address": "B03, Ground Floor, VSQ@PJ City Centre, Jalan Utara, 46200 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/PAvN2P4C7TSVRLiH9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Damansara Damai",
+                "store_address": "L-013 (Ground Floor), Vista Shop, Jalan PJU 10/2A, Damansara Damai,47830 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/x3vfoWpBpRLG9K327"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Cheras Selatan",
+                "store_address": "KF3 & KF5, First Floor, Aeon Mall Cheras, Selatan, Jalan Cheras Perdana Cheras, 43200, Balakong, Selangor",
+                "store_link": "https://maps.app.goo.gl/UrdwdN3cYSCCSuqB7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Setia Prima, Setia Alam",
+                "store_address": "8-1-2 (Ground Floor), Jalan Setia Prima P U13/P, Setia Alam, 40170 Shah Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/1i1djZnUqsuTjtip7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Glenz @Glenmarie",
+                "store_address": "G-3B (Ground Floor), Subplace Boulevard Pusat Kormersil Vestland, No.6, Jalan Juruanalisis U1/35, Seksyen U1, 40150 Shah Alam, Selangor Darul Ehsan",
+                "store_link": "https://maps.app.goo.gl/qyNRDn9vdyN7ebpa9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Puchong Utama",
+                "store_address": "A-G-9 (Ground Floor), Block A, Dataran Puchong, Jalan PU 7/1, Taman Puchong Utama, 47140 Puchong, Selangor",
+                "store_link": "https://maps.app.goo.gl/JFR4PpoU3195PJiQ7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sunway Pyramid",
+                "store_address": "Lot LG2.37, Level LG2, Sunway Pyramid, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/gEZekwMHNSMr48rM8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Setapak Central Mall",
+                "store_address": "GK-08, Ground Floor, 67, Jln Taman Ibu Kota, Taman Danau Kota, 53300 Kuala Lumpur, Wilayah Persekutuan",
+                "store_link": "https://maps.app.goo.gl/Bm11m4TsgbU4vHuN7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Exchange TRX",
+                "store_address": "Lot C.98.0, The Exchange TRX, Persiaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Wilayah Persekutuan",
+                "store_link": "https://maps.app.goo.gl/dF2G1ifX7ZNim34X9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Sri Manja",
+                "store_address": "No.25, Jalan PJS 3/46, Taman Sri Manja, 46000 Petaling Jaya",
+                "store_link": "https://maps.app.goo.gl/NC5h4Ka5GpkNqZXv7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Eco Grandeur",
+                "store_address": "No 18-G (Ground Floor), Jalan Eco Grandeur 1/9A, Eco Granduer, 42300, Bandar Puncak Alam, Selangor",
+                "store_link": "https://maps.app.goo.gl/Ri16uBrxZcHrzipp6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jaya Shopping Centre",
+                "store_address": "Lot G-01, Jaya Shopping Centre, Jalan 14/17, Seksyen 14, 46100 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/PPdekSrAX9qRBJPaA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Eco Majestic Semenyih",
+                "store_address": "Lot 47-1, Jalan Eco Majestic 10/1A, 43500 Semenyih, Selangor.",
+                "store_link": "https://maps.app.goo.gl/5do85BzjhSHZQqGd8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Gateway@KLIA2 (Departure Hall, Level 3)",
+                "store_address": "Lot L3-44A, Level 3, gateway@KLIA2, Lbh KLIA, 43900 KLIA, Selangor",
+                "store_link": "https://maps.app.goo.gl/zokxx7yUmHcStc978"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Gateway@KLIA2 (Arrival Hall, Level 2)",
+                "store_address": "Lot No. L2-90B, Level 2, gateway@KLIA2, Lbh KLIA, 43900 Klia, Selangor",
+                "store_link": "https://maps.app.goo.gl/ix7SbeVWTn9Ya3JS7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taipan USJ",
+                "store_address": "No. 9 (Ground Floor), Jalan USJ 10/1E, Taipan Business Centre, 47620, Subang Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/ypaC1vcYetCYs3aV8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sunway Velocity Mall",
+                "store_address": "Lot 1-22, First Floor, Lingkaran SV2, Sunway Velocity Mall, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/tSr4cVgTudc9g7RKA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sapura Lot 91 KLCC",
+                "store_address": "Lot C-17, Level Concourse, Permata Sapura, Kuala Lumpur City Centre, 50088 Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/7jfFcmfhtje1aJWr8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Myra Meranti, Puchong",
+                "store_address": "No. 8A (Ground Floor), Jalan MM4, Taman Myra Meranti, 47120 Puchong, Selangor Darul Ehsan",
+                "store_link": "https://maps.app.goo.gl/T2FaCc1iy6ptTeor8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 OUG Parklane",
+                "store_address": "A1-0-12 (Ground Floor), OUG Parklane, Jalan 1/152, Taman OUG Parklane, 58200 Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/W24LoGds3JoiD3m37"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Centro Mall",
+                "store_address": "Lot GK105, Ground Floor, Centro Mall, 8, Jalan Batu Tiga Lama, Kawasan 16, 41300 Klang, Selangor",
+                "store_link": "https://maps.app.goo.gl/PNyXbe5UZ439yJQj9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Lotus\u2019s Klang",
+                "store_address": "Lot GK14. KS 6, 3, Jalan Batu Nilam 6, Bandar Bukit Tinggi 1, 41200 Klang, Selangor.",
+                "store_link": "https://maps.app.goo.gl/6rScsK1tKDm6Mcac6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pavilion Damansara Heights",
+                "store_address": "Lot 2.13.01. Level 2. No. 3, Jalan Damanlela, Pavilion Damansara Heights 50490 Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/TqbHh3pMfNtRj4ht9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Shaftsbury Square",
+                "store_address": "Level P1-23, Lot 2350, Shaftsbury Square, Cyber 6, 63000 Cyberjaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/rEPRLDbi6WzySivA6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 SS2",
+                "store_address": "No.5, Jalan SS2/67, SS2, 47300 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/bWF7JyTj4fsrvduv8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sunway Velocity Two",
+                "store_address": "Lot VS1-G-01, Sunway Velocity Two, Jalan Peel, Seksyen 90, 55100 Wilayah Persekutuan Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/cpAihjdHZWuwS8fg8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kidzania Kuala Lumpur",
+                "store_address": "Curve NX, Jalan PJU 7/5, Mutiara, Damansara 47810 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/y8ftJcN4VPpD37U8A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Seventeen Mall",
+                "store_address": "998, Jalan 17/38, Seksyen 17, 46400 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/wg2ZfHJZQJP5gcnm7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 SHELL Cyberjaya Autoville",
+                "store_address": "Stesen Minyak Shell Autoville, Persiaran Mutilmedia, Cyber 10, 63000, Cyberjaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/69dHq3DgYtq3h3Kj6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Cybersouth Dengkil",
+                "store_address": "No 35-G, Jalan PP 1/1, Park Place 1, Cybersouth, 43800 Dengkil, Selangor",
+                "store_link": "https://maps.app.goo.gl/KJGBzSUYVHKFyxTs6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 UCSI University KL",
+                "store_address": "Lot 6, Block G, Ground Floor, UCSI University, No. 1, Jalan Menara Gading, UCSI Heights (Taman Connaught), 56000 Cheras, Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/8nSgs6vCWKjW4MCR8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Avenue K",
+                "store_address": "Lot C-6, Level Concourse, Avenue K, 156 Jalan Ampang, 50450 Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/m5H6LUwbe4C68hQX9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Centrepoint Bandar Utama",
+                "store_address": "LOT F103, First Floor, Centrepoint Bandar Utama, 3, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+                "store_link": "https://maps.app.goo.gl/2m3UHhhCWzcUGVi18"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Setiawangsa",
+                "store_address": "No 30-G (G-Floor), Jalan Setiawangsa 10 (10/55A), Taman Setiawangsa, 54200, WP Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/EDT9DtreNCn4rwmm8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sungei Wang Plaza",
+                "store_address": "Lot PK-5, Sungei Wang Plaza, Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/dV42oSX7g5ekeQZq8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Universiti Kebangsaan Malaysia (Bangunan Pusanika)",
+                "store_address": "Aras Satu, Bangunan Pusanika, Universiti Kebangsaan Malaysia, 43600 Bangi, Malaysia",
+                "store_link": "https://goo.gl/maps/aaGcJeiphnfkk4DHA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Tower 8, Horizon 2, Bangsar South",
+                "store_address": "Office 2, Ground Floor, Tower 8, Bangsar South City, Jalan Kerinchi, Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/CE2q8A1rqUfLnF4SA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Eco Sky",
+                "store_address": "G-30, Eco Sky, No. 972, Batu 6 1/2, Jalan Ipoh, 68100, Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/TA6HUrJFqjFiR7NX9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Berjaya Times Square",
+                "store_address": "Berjaya Times Square, Lot LG-18C-03A, 1, Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/FpQtqDUj872Mufkd7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Alamanda Putrajaya",
+                "store_address": "Lot G22, Ground Floor. Jalan Alamanda, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya.",
+                "store_link": "https://goo.gl/maps/PGaneH9TTMDoakEK7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 INTI International College Subang",
+                "store_address": "Cafeteria Level 1, Block B, INTI International College Subang Campus, No 3, Jalan SS15/8, 47500 Subang Jaya, Selangor.",
+                "store_link": "https://goo.gl/maps/SJ84L8pCBgH8zvxH9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Country Homes Rawang",
+                "store_address": "No. G-16, Avia Plus, Jalan Desa Utama, Bandar Country Home, 48000 Rawang, Selangor",
+                "store_link": "https://goo.gl/maps/nQGL8njPA1s4Y6jD7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Melawati Mall",
+                "store_address": "Lot L1-K1, Melawati Mall, Jalan Bandar 12, Taman Melawati, 53100 Kuala Lumpur, Selangor",
+                "store_link": "https://goo.gl/maps/T16Urjiiw11yjNer5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 IOI Boulevard",
+                "store_address": "B-G-13A (Ground Floor), IOI Boulevard, Jalan Kenari 5, Bandar Puchong Jaya, 47100 Puchong, Selangor.",
+                "store_link": "https://goo.gl/maps/2HJnduG8ue4t45MZ8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pekan Meru",
+                "store_address": "195, Jalan Meru Batu 6 1/2, Pekan Meru, 41050 Klang, Selangor",
+                "store_link": "https://goo.gl/maps/KGo6jdjPNHe2a2j1A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Desa Petaling",
+                "store_address": "29, Jalan 3/125D, Desa Petaling 57100 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/UfEC9rJBXdkkJymV8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jade Hills Kajang",
+                "store_address": "No 54-1, Jalan Dataran Jade 6, Dataran Jade, Jade Hills, 43000 Kajang, Selangor",
+                "store_link": "https://goo.gl/maps/TfmPQdoZ9MG6uytz6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Tasik Puteri",
+                "store_address": "No 82-G-A, Ground Floor, Jalan 7A/2, Bandar Tasik Puteri, 48000 Rawang, Selangor",
+                "store_link": "https://goo.gl/maps/8rPEmN2RWEr2nKtr5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Sunway",
+                "store_address": "No 27 (Ground Floor), Jalan PJS 11/28b, Sunway Metro Bandar Sunway, 46150 Petaling Jaya, Selangor",
+                "store_link": "https://goo.gl/maps/UoPUbgiicKqwZM8K7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Cheras Leisure Mall",
+                "store_address": "Lot L1-24, Leisure Mall, Jalan Manis 6, Taman Bukit Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/kZMrsniabj6ajf7w8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pearl Point Shopping Mall",
+                "store_address": "LOT F-25. Menara Pearl Point 2 No. 2A, Jalan Sepadu, Off, Jln Klang Lama, 58200 Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/RBFn4hcFJg4MpVqf8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Empire Shopping Gallery",
+                "store_address": "LK-07, Level Lower Ground, Empire Shopping Gallery, Jalan SS16/1, 47500 Subang Jaya, Selangor Darul Ehsan",
+                "store_link": "https://goo.gl/maps/rTq2Mxwc9xTKk3zc9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 CALTEX Sungai Choh",
+                "store_address": "PT 20499 (Lot 1493), Kampung Stesen, Sungai Buaya, 48000 Sungai Choh, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/m9mA5w5jBNCcCczS7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Teluk Pulai",
+                "store_address": "No.198 (Ground floor), Jalan Teluk Pulai, 41000 Klang, Selangor",
+                "store_link": "https://goo.gl/maps/XTcn1fpDW94nPiTj8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 PJ New Town",
+                "store_address": "10 (Ground Floor), Jalan 52/18, PJ New Town, 46200 Petaling Jaya, Selangor",
+                "store_link": "https://goo.gl/maps/vprqmf1SbUoYNUs2A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 KSL Esplanade Mall",
+                "store_address": "LOT G053A, Ground Floor, No 2, Jalan Langat KS9, Bandar Bestari, 42500 Klang, Selangor",
+                "store_link": "https://goo.gl/maps/MyjQQYEm8CoenS9U8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Da Men Mall",
+                "store_address": "LG-25, Lower ground. 1, Persiaran Kewajipan, Usj 1, 47600 Subang Jaya, Selangor.",
+                "store_link": "https://goo.gl/maps/Jw5aNpp3ad92Gopx9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 University of Malaya",
+                "store_address": "Locker Room (Ground Floor), Bangunan Perpustakaan Utama, University of Malaya, Lembah Pantai, 50603 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/xm13sfWxCYfV1Exi8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 University of Nottingham",
+                "store_address": "Block H (Ground Floor), Student Association Building, Jalan Broga, 43500 Semenyih, Selangor Darul Ehsan",
+                "store_link": "https://goo.gl/maps/khVM8oopnLEYDMLA8?coh=178572&entry=tt"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Suria KLCC",
+                "store_address": "Lot No. OS301 , Level 3, Suria KLCC, Persiaran Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/ARggtH6kcQrkYHvd9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 KL Gateway",
+                "store_address": "Lot G.15 & G.16. KL Gateway Mall. 2, Jalan Kerinchi, Kampung Kerinchi, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/gAD6wBjcKucowH6B7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Wangsa Maju Alpha Angle",
+                "store_address": "Lot F37. Jalan R1, Seksyen 1, Bandar Baru Wangsa Maju 53300 Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/aofzy7oNitKgUVr4A?coh=178572&entry=tt"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 KLIA 1 Departure Hall",
+                "store_address": "Lot CPD 3 A06, Gate A, Contact Pier Domestic KLIA, Kuala Lumpur International Airport, 64000 Sepang, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/Tp6HjUUm8euMfajn6?coh=178572&entry=tt"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 M3 Shopping Mall",
+                "store_address": "GK-10a & GK-10b, Jln Madrasah, Taman Melati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/qjywrDrnqUGu9wbu5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Xiamen University Malaysia",
+                "store_address": "A3 Library Cafe \u2013 GF, Xiamen University Malaysia, Jalan Sunsuria, Bandar Sunsuria, 43900 Sepang, Selangor.",
+                "store_link": "https://goo.gl/maps/ZotrA6JJXknKzcAe9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Skypark Terminal",
+                "store_address": "Lot No. G10B, Ground Floor, Skypark Terminal, Sultan Abdul Aziz Shah Airport, 47200 Subang, Selangor",
+                "store_link": "https://goo.gl/maps/kQxq7pmLMEijYPvf9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jaya One Mall",
+                "store_address": "100-P2.017 The School, Jaya One. 72A, Jln Profesor Diraja Ungku Aziz, Seksyen 13, 46200 Petaling Jaya, Selangor.",
+                "store_link": "https://goo.gl/maps/PpDnAo6G1b4qmmw89"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Metro Prima Kepong",
+                "store_address": "LOT KF2. 1, Jalan Metro Prima, Taman Kepong, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/v1xUPJjziuK1fz8m6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Bukit Anggerik",
+                "store_address": "No.14 (Ground Floor), Jalan 34/154, Taman Bukit Anggerik, 56000 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/PvRSFt1uTHd7vgrTA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Taman Maluri",
+                "store_address": "Lot KF2. Jalan Jejaka, Maluri, 55100 Cheras, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/kZJHiwMJ8q6CciYo7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Bukit Raja",
+                "store_address": "Lot G23, Bukit Raja Shopping Centre, Persiaran Bukit Raja 2, Bandar Baru Klang, 41150 Klang, Selangor.",
+                "store_link": "https://goo.gl/maps/eNPD1wjJiYyxMgvE7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Desa Setapak",
+                "store_address": "No.37 (Ground Floor), Jalan 1/27B, Desa Setapak, 53300, Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/g5CwwuxBkz24D86u8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Kosas",
+                "store_address": "No 21 (Ground Floor), Jalan Kosas 1/2, Taman Kosas, 68000 Ampang, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/PBCMtrnfNQp1iwc57"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Putrajaya Presint 15",
+                "store_address": "No 43 (Ground Floor), Jalan Diplomatik, Presint Diplomatik, 62050 Putrajaya, Wilayah Persekutuan Putrajaya",
+                "store_link": "https://goo.gl/maps/LWyKNHec3hn7GTRKA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Sungai Long",
+                "store_address": "No 19, Ground Floor, Jalan SL 1/4, Bandar Sungai Long, 43000 Kajang, Selangor",
+                "store_link": "https://goo.gl/maps/JUW33rY5syUx5wPJ9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Quayside Mall",
+                "store_address": "1FK-07, First Floor. Quayside Mall. Gamuda Kemuning, 25.7, Persiaran Freesia, 42500 Telok Panglima Garang, Selangor.",
+                "store_link": "https://goo.gl/maps/eHojDSUCoDMikY7S8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MYDIN USJ Subang Jaya",
+                "store_address": "Lot GSRU-24,GSRU-25, Ground Floor level, MYDIN Subang Jaya, Persiaran Subang Permai, USJ 1, 47500 Subang Jaya, Selangor",
+                "store_link": "https://goo.gl/maps/Xx5HyDKByC969rev8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Temu @ City Of Elmina",
+                "store_address": "No 5 (Ground Floor), Jalan Eserina AA U16/AA, Elmina East, Seksyen U16, 40150 Shah Alam, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/o3iKTrg6rGuo7Nh77"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 BMC Mall",
+                "store_address": "GK-01, BMC Mall. Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor.",
+                "store_link": "https://goo.gl/maps/M15crMMpR47xBeXEA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Nu Sentral Mall",
+                "store_address": "Lot CC.04A. 201, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/NJDM3kBomXgK1x9h7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pandan Indah",
+                "store_address": "No. 15G (Ground Floor), Jalan Perubatan 2, Pandan Indah, 55100, Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/sAaiQ45dXvkmK9XY6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Majestic Maxim Residensi Tmn Bkt Cheras",
+                "store_address": "No.LG-03, Residensi Majestic Maxim, 45, Jalan 9, Taman Bukit Cheras, 56000 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/ewWYcrKErCVrR8A5A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Quill City Mall",
+                "store_address": "LG-23A. 1018, Jln Sultan Ismail, Bandar Wawasan, 54200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/8mazjnsEBYLNE7SAA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 IOI City Mall",
+                "store_address": "L1-K204, First Floor, IOI City Mall 2, Lebuh IRC, IOI Resort City, 62502 Putrajaya",
+                "store_link": "https://goo.gl/maps/Ye9w3xFSiig9n7oeA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Megah Rise Mall, PJ",
+                "store_address": "Lot G-15, Ground Floor, Megah Rise Mall, Jalan SS 24/11, Taman Megah, 47301 Petaling Jaya",
+                "store_link": "https://goo.gl/maps/b73K5H1Ek983SEfH8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 BHP Jalan Maarof",
+                "store_address": "78, Jalan Ma\u2019arof, Bangsar, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/U4H8v1DnV5TEEiTFA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The FLO Bandar Sri Damansara",
+                "store_address": "GF-3, The Flo, Persiaran Perdana, Bandar Sri Damansara, 52200 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/1hLReCzvSJRyFq8S9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Taman Equine Shopping Centre",
+                "store_address": "Lot LG13, Lower Ground Floor, Aeon Taman Equine Shopping Centre, 2, Jalan Equine, Pusat Bandar Putra Permai, 43300 Seri Kembangan, Selangor",
+                "store_link": "https://goo.gl/maps/pxDE1RrtdRdsRKyu9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Puncak Jalil",
+                "store_address": "No 26 (Ground Floor), Jalan PUJ 3/13, Taman Puncak Jalil, 43300 Seri Kembangan, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/qXAHbJcGuzigxw3V9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Banting",
+                "store_address": "No 213 (Ground Floor), Jalan Sultan Abdul Samad, Bandar Banting, 42700 Banting, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/cHENDvCbTrcD5J1a6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Shah Alam",
+                "store_address": "Lot (KG10), AEON Mall Shah Alam, Jalan Akuatik 13/64, Seksyen 13, 40100 Shah Alam, Selangor",
+                "store_link": "https://goo.gl/maps/WrZgREup9fWacaHWA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Datum Jelatek Mall",
+                "store_address": "L1-K-09 & 07 (level 1), Datum Jelatek Mall, Jalan Enggang, Taman Keramat, 54200 Kuala Lumpur, Selangor.",
+                "store_link": "https://goo.gl/maps/8fiwceaE2fBox6KB7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Tas, Kuantan",
+                "store_address": "B4 (Ground Floor), Lorong Pandan Damai 2/4, Taman Pandan Damai, 25150 Kuantan, Pahang Darul Makmur.",
+                "store_link": "https://goo.gl/maps/TXqqmUfbj9bm1tQu6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Antara Gapi",
+                "store_address": "No 15-G (Ground Floor), Jalan Gapi 1A/3, Perniagaan Antara Gapi, 48200 Serendah, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/3kTB4G5CqSSug3Ew9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Shah Alam Seksyen 14 (Vista Alam)",
+                "store_address": "F-G-29 (Ground Floor), Vista Alam, Jalan Ikhtisas, Seksyen 14, 40000 Shah Alam, Selangor Darul Ehsan",
+                "store_link": "https://goo.gl/maps/id8tgjWsiwzczZdk9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Saujana Putra",
+                "store_address": "No 19-G, Jalan SP 1/1, Bandar Saujana Putra, 42610 Jenjarom, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/qK2Witykh7ddbfhU7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 CALTEX Temiang",
+                "store_address": "Lot 40766, Persiaran Sri Pulai 2, 70400 Seremban, Negeri Sembilan Darul Khusus.",
+                "store_link": "https://goo.gl/maps/PmKWTyx7rdN945S79"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 SB Mall Sungai Buloh",
+                "store_address": "G-17B, SB Mall, Bukit Rahman Putra, 47000 Sungai Buloh, Selangor",
+                "store_link": "https://goo.gl/maps/fnrzKD1WCu8MzJZy9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Subang Bestari",
+                "store_address": "No 3 (Ground Floor), Jalan Nova U5/N, Subang Bestari, 40150 Shah Alam, Selangor",
+                "store_link": "https://goo.gl/maps/YKjfFkXmiFBfKM16A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Setia City Mall",
+                "store_address": "L1-120, Level 1, Setia City Mall, Persiaran Setia Dagang, Setia Alam, 40170 Shah Alam, Selangor",
+                "store_link": "https://goo.gl/maps/L7vyRinRvMNHPGhp8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Batang Kali",
+                "store_address": "No 7 (Ground Floor), Jalan Mahagoni 7/1A, Seksyen 4, Perniagaan Jalan Mahagoni, 44300 Batang Kali, Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/RoHgYHj9fXx2CrUM9"
+            },
+            {
+                "store_name": "MENARA WORLDWIDE",
+                "store_address": "Ground Floor, Menara Worldwide, 198, Jln Bukit Bintang, Kuala Lumpur, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/fuQSdLxcxCAg5xZz9"
+            },
+            {
+                "store_name": "PUTRA HEIGHTS",
+                "store_address": "No 31 (Ground Floor), Jalan Putra Mahkota 7/6c, Putra Point Commercial Centre, 47650 Subang Jaya, Selangor",
+                "store_link": "https://goo.gl/maps/vqxPgJJMZJymU7MT9"
+            },
+            {
+                "store_name": "1 UTAMA SHOPPING CENTRE",
+                "store_address": "1 Utama Shopping Centre, Lot L2-SK9, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+                "store_link": "https://goo.gl/maps/Z8rfW3FhuzkqGwJdA"
+            },
+            {
+                "store_name": "SAUJANA UTAMA",
+                "store_address": "No. 23G, Taman, Jalan Bidara 10, Saujana Utama 3, 47000 Sungai Buloh, Selangor",
+                "store_link": "https://goo.gl/maps/rnon9CMra17xr7c86"
+            },
+            {
+                "store_name": "DENAI ALAM",
+                "store_address": "No 39, 1, Jln Elektron U16/D, Denai Alam, 40160 Shah Alam, Selangor",
+                "store_link": "https://goo.gl/maps/2UDd59PdTC7sSwKR7"
+            },
+            {
+                "store_name": "BANDAR SERI COALFIELDS",
+                "store_address": "No 32 (Ground Floor), Bandar Seri Coalfields, Jalan BSC 2B/2, 47000 Sungai Buloh, Selangor",
+                "store_link": "https://goo.gl/maps/Au3qUb6U4pqjy1eE9"
+            },
+            {
+                "store_name": "TROPICANA GARDENS MALL",
+                "store_address": "LOT 3F 47&48, Third Floor, Tropicana Gardens Mall, Jln PJU 3/21, Tropicana Indah, 47410 Petaling Jaya, Selangor",
+                "store_link": "https://goo.gl/maps/qko2pt2EoSZbRvnC6"
+            },
+            {
+                "store_name": "LAKEFIELDS TRILLIUM",
+                "store_address": "58-G, Jalan Tasik Utama 5 Medan Niaga Tasik Damai, Sungai Besi, 57000 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/dgsWKBS2813Q7Ehm8"
+            },
+            {
+                "store_name": "TAMAN SRI SERDANG, SERI KEMBANGAN",
+                "store_address": "3352 (Ground Floor), Jalan 18/32, Taman Sri Serdang, 43300 Seri Kembangan, Selangor",
+                "store_link": "https://goo.gl/maps/hvcxbmcoVodhc5GT9"
+            },
+            {
+                "store_name": "IOI CONEZION",
+                "store_address": "A-G-11, Connection Commercial, Persiaran IRC 3 IRC 3, IOI Resort City, 62502 Sepang, Wilayah Persekutuan Putrajaya",
+                "store_link": "https://goo.gl/maps/w9o1bgCnSrPuMUSP7"
+            },
+            {
+                "store_name": "STARLING MALL",
+                "store_address": "K-S-202, Second Floor The Starling Mall, 6, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor",
+                "store_link": "https://goo.gl/maps/fEQKSKiF9N4rzEVk7"
+            },
+            {
+                "store_name": "SUBANG PERDANA",
+                "store_address": "27-G, Jalan Dinar E U3/E, Taman Subang Perdana, 40150 Shah Alam, Selangor",
+                "store_link": "https://goo.gl/maps/kaPBHQ1bSss5Lcey7"
+            },
+            {
+                "store_name": "BANDAR SERI PUTRA",
+                "store_address": "13G, Jalan Seri Putra 1/2 Bandar Seri Putra Bangi, 43000 Kajang, Selangor",
+                "store_link": "https://goo.gl/maps/RdVTpbpYL7ZCYCLP7"
+            },
+            {
+                "store_name": "SENTUL POINT",
+                "store_address": "BC-G-08 Sentul Point Suite Apartments, Jalan Sentul Pasar, Sentul, 51000 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/xfiWQ8XhKEhyQq1n9"
+            },
+            {
+                "store_name": "AMPANG SPECTRUM MALL",
+                "store_address": "Lot CW-5, Cafe Walk, Ground Floor, Spectrum Shopping Mall",
+                "store_link": "https://goo.gl/maps/q2bZdyKDYkNDbV2VA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 DPulze Shopping Centre, Cyberjaya",
+                "store_address": "Lot EX-GW-01A, Ground Floor, DPulze Shopping Centre, Persiaran Multimedia, Cyber 12, 63000 Cyberjaya",
+                "store_link": "https://maps.app.goo.gl/BYiqE3Wdm35hAnVWA"
+            },
+            {
+                "store_name": "KOTA DAMANSARA",
+                "store_address": "No. 27-1, Jalan PJU 5/12, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya",
+                "store_link": "https://goo.gl/maps/7w94urB4cH6zs9pU8"
+            },
+            {
+                "store_name": "ATRIA SHOPPING GALLERY",
+                "store_address": "C01A, Concourse Floor, Atria Shopping Gallery, Jalan SS 22/23, Damansara Jaya 47400 Petaling Jaya.",
+                "store_link": "https://goo.gl/maps/Z447kr2pPT44X2ScA"
+            },
+            {
+                "store_name": "BUKIT SENTOSA",
+                "store_address": "19G, Jalan Orkid 1F/2, Bukit Sentosa BS 1, 48300 Rawang, Selangor",
+                "store_link": "https://goo.gl/maps/zxCcr3RNAdy3gobj7"
+            },
+            {
+                "store_name": "KOTA WARISAN",
+                "store_address": "Unit 63-G, Jalan Warisan Sentral 1, Kota Warisan, Bandar Baru Salak Tinggi, 43900 Sepang, Selangor",
+                "store_link": "https://goo.gl/maps/NrQciFrEzNer3mi5A"
+            },
+            {
+                "store_name": "SHAH ALAM SEKSYEN 13",
+                "store_address": "No. 50, Jalan Renang 13/26, Tadisma Business Park, Seksyen 13, 40100 Shah Alam, Selangor",
+                "store_link": "https://goo.gl/maps/xEbiPB9tS7erfrKS6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sunway Gandaria, Bangi",
+                "store_address": "UG-11 Sunway Gandaria, Jalan Pusat Bandar 2, Bandar Baru Bangi, Seksyen 9, 43650 Selangor",
+                "store_link": "https://maps.app.goo.gl/hP9njvTKvXUyszMQ7"
+            },
+            {
+                "store_name": "RAWANG REEF",
+                "store_address": "No. A13A-G, Jalan Reef 1/1, Pusat Perniagaan Reef, 48000 Rawang, Selangor",
+                "store_link": "https://goo.gl/maps/oPNR5xyvTJnABbLw8"
+            },
+            {
+                "store_name": "PRIMA SRI GOMBAK",
+                "store_address": "G-39, Jalan Prima SG 2, Prima Sri Gombak, 68100 Batu Caves, Selangor",
+                "store_link": "https://goo.gl/maps/uLL2177jWKhyYbP57"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Ecohill, Semenyih",
+                "store_address": "C-06-01, Blok C, Pusat Komersial Dataran Ecohill, Jalan Ecohill 1/2, Setia Ecohill 43500 Semenyih, Selangor",
+                "store_link": "https://maps.app.goo.gl/bEpkHP48dJJ3ZBSw9"
+            },
+            {
+                "store_name": "BANDAR BARU SELAYANG",
+                "store_address": "59, Jalan 2/16, Bandar Baru Selayang 68100 Batu Caves, Selangor",
+                "store_link": "https://goo.gl/maps/jr1tADwxQfWhU3tt9"
+            },
+            {
+                "store_name": "BANDAR BUKIT RAJA",
+                "store_address": "13G, Jalan Rodat 2A/KU5, Bandar Bukit Raja 41050 Klang Selangor",
+                "store_link": "https://goo.gl/maps/euN6UosVpihBmUgq6"
+            },
+            {
+                "store_name": "SETIA ALAM TP2",
+                "store_address": "36-G, Jalan Setia Utama AS U13/AS, Setia Alam, 40170 Shah Alam Selangor",
+                "store_link": "https://goo.gl/maps/Yy4bN4o3t8KUV65W9"
+            },
+            {
+                "store_name": "SUNWAY PINNACLE",
+                "store_address": "Unit G-02, Ground Floor, The Pinnacle Annexe, Persiaran Lagoon, Sunway City, 47500, Selangor",
+                "store_link": "https://goo.gl/maps/zpkqHfttVscM32zz7"
+            },
+            {
+                "store_name": "KOTA KEMUNING",
+                "store_address": "1-17-1, No. 14, Persiaran Anggerik Vanilla, Kota Kemuning, Seksyen 31, 40460 Shah Alam, Selangor",
+                "store_link": "https://goo.gl/maps/4zxXmFwCvu9xotAy5"
+            },
+            {
+                "store_name": "SHAH ALAM SEKSYEN 7",
+                "store_address": "24, Jalan Plumbum P7/P, Seksyen 7, 40000 Shah Alam, Selangor.",
+                "store_link": "https://goo.gl/maps/m2GFHP9MnQs4VXAN8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MKH Boulevard, Kajang",
+                "store_address": "Lot G-15, MKH Boulevard Kajang, Jalan Changkat, Bandar Kajang, 43000 Kajang Selangor.",
+                "store_link": "https://maps.app.goo.gl/Rokmgi9ixdxmya7B7"
+            },
+            {
+                "store_name": "THE CURVE",
+                "store_address": "K-G27-W, The Curve, Jalan PJU 7/3, Mutiara Damansara, 47820 Petaling Jaya, Selangor.",
+                "store_link": "https://goo.gl/maps/5WpCbqwgiqmarPBQ9"
+            },
+            {
+                "store_name": "CHERAS TRADER SQUARE",
+                "store_address": "83A-G, Jalan Dataran Cheras 4, Dataran Perniagaan Cheras, Balakong 43200 Selangor.",
+                "store_link": "https://goo.gl/maps/57v1hCYjiF7CJvv36"
+            },
+            {
+                "store_name": "MAIN PLACE",
+                "store_address": "GF-20, Main Place Mall, USJ 21, 47640 Subang Jaya, Selangor.",
+                "store_link": "https://goo.gl/maps/LLSeca18BMWBuMTYA"
+            },
+            {
+                "store_name": "ZUS BUKIT TINGGI 2",
+                "store_address": "No.55, Lorong Batu Nilam 21B, Bandar Bukit Tinggi 2, 41200 Klang Selangor Darul Ehsan.",
+                "store_link": "https://goo.gl/maps/pcrkN8KNVyHHUr6q7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Mines Shopping Mall",
+                "store_address": "The Mines Shopping Mall, Level 3-21A, Jalan Dulang, Seri Kembangan, 43300 Selangor.",
+                "store_link": "https://maps.app.goo.gl/sQUfwMYdT15j6Zj9A"
+            },
+            {
+                "store_name": "IOI RIO CITY",
+                "store_address": "Lot 11-1, IOI RIO Office Park, 47100 Puchong, Selangor",
+                "store_link": "https://goo.gl/maps/noRNa2WrthZToe5e7"
+            },
+            {
+                "store_name": "PUCHONG IOI MALL",
+                "store_address": "Lot FK-02, First, Jalan Puchong, Bandar Puchong Jaya, 47170 Puchong, Selangor.",
+                "store_link": "https://goo.gl/maps/WvTgKuDH2CQ98ihY6"
+            },
+            {
+                "store_name": "BANDAR MENJALARA",
+                "store_address": "37G, Jalan 3/62A, Bandar Menjalara, 52200 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/LcbzA6bhyEGRCUKN9"
+            },
+            {
+                "store_name": "MASJID JAMEK",
+                "store_address": "No. 45-1 & 45-2, Ground Floor, Leboh Ampang, Kuala Lumpur City Centre, 50100 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/amJyLZ5Kwx2k3VGe6"
+            },
+            {
+                "store_name": "BANDAR SRI PERMAISURI",
+                "store_address": "11G, Jalan Dwitasik 1, Bandar Sri Permaisuri, 56000 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/AEAGzQnW8btggXtx5"
+            },
+            {
+                "store_name": "PAVILION BUKIT JALIL",
+                "store_address": "Lot P.1.05.00 Pavilion Bukit Jalil, Persiaran Jalil Utama, Bukit Jalil, 57000 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/fDyasTvhs3JmQbzeA"
+            },
+            {
+                "store_name": "MYTOWN CHERAS",
+                "store_address": "Mytown Shopping Mall, LOT G-K-015 & 016, Ground Floor, No.6, Jalan Cochrane, Seksyen 90, 55100 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/Wnsi5P8APXzrSVsf7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Bendahara, Kuala Selangor",
+                "store_address": "No. 2, Jalan Bendahara 1/2A. Taman Bendahara 45000 Kuala Selangor.",
+                "store_link": "https://maps.app.goo.gl/vVfbshkjfPtGWHUd8"
+            },
+            {
+                "store_name": "MID VALLEY MEGAMALL",
+                "store_address": "SK-10, Second Floor, Mid Valley Megamall, Lingkaran Syed Putra, Midvalley City, 59200 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/g4FugRDNNbutEqCEA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Fortune Centra, Kepong",
+                "store_address": "G-16, Fortune Centra, 2, Jalan Metro Perdana Timur 6, Taman Usahawan Kepong, 52100 Kuala Lumpur",
+                "store_link": "https://maps.app.goo.gl/kRSQA7sxDiTShDGL6"
+            },
+            {
+                "store_name": "FOUND8 KL SENTRAL",
+                "store_address": "5, Jalan Stesen Sentral, East Wing, Level 3 Kuala Lumpur Sentral 50470 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/hXSR5K3Ae2L8t3o56"
+            },
+            {
+                "store_name": "PUBLIKA",
+                "store_address": "Lot K1, G3, Publika Shopping Gallery, No. 1, Jalan Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/er2Frnbt1EsDipdG6"
+            },
+            {
+                "store_name": "PLAZA DAMAS",
+                "store_address": "60, Jalan Sri Hartamas 1, Taman Sri Hartamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/758BwxAPbNza1Smb9"
+            },
+            {
+                "store_name": "SRI PETALING",
+                "store_address": "Lot 36-J, Jalan Radin Anum, Sri Petaling, 57000 Kuala Lumpur",
+                "store_link": "https://goo.gl/maps/CRBGyGYj6qpp4Qib6"
+            },
+            {
+                "store_name": "KL EAST MALL",
+                "store_address": "Lot G2K-03A, KL East Mall, Jalan Lingkaran Tengah 2, Taman Sri Melati, 53100 Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/iaBSM94FxsSZhrWf7"
+            },
+            {
+                "store_name": "DANAU KOTA",
+                "store_address": "Lot 1-3, Danau Kota Kormesial, No. 1, Jalan 6A/6, Jalan Taman Ibu Kota, Taman Danau Kota, 53300 Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/YZt1439jNkhU5RGu8"
+            },
+            {
+                "store_name": "EKOCHERAS MALL",
+                "store_address": "S-63A, 2nd Floor, EkoCheras Mall, No 693, Batu 5, Jalan Cheras, 56000 Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/tKrv7d1MDG1gonAj8"
+            },
+            {
+                "store_name": "BINJAI 8 PREMIUM SOHO",
+                "store_address": "G04, Pangsapuri Servis (Suite) Binjai 8 No, 2, Lorong Binjai, 50450 Kuala Lumpur.",
+                "store_link": "https://g.page/ZusCoffee?share"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Park Sky Residence, Bukit Jalil",
+                "store_address": "22, The Park Sky Residence @ Bukit Jalil City, Persiaran Jalil Utama, Bukit Jalil, 57000 Kuala Lumpur.",
+                "store_link": "https://maps.app.goo.gl/LiYHGJBVCkLptukA9"
+            },
+            {
+                "store_name": "TAMAN DESA",
+                "store_address": "No 11-0-10, Jalan 4/109F Danau Business Centre, Taman Danau Desa, 58100 Kuala Lumpur.",
+                "store_link": "https://goo.gl/maps/ep7uUzN6Rwszehee7"
+            },
+            {
+                "store_name": "BINJAI 8 PREMIUM SOHO",
+                "store_address": "G04, Pangsapuri Servis (Suite) Binjai 8 No, 2, Lorong Binjai, 50450 Kuala Lumpur.",
+                "store_link": "https://g.page/ZusCoffee?share"
+            }
+        ],
+        "melaka": [
+            {
+                "store_name": "ZUS Coffee \u2013 Pusat Perniagaan Jasin",
+                "store_address": "JC2353 (Ground Floor) Jalan PPJ 2, Pusat Perniagaan Jasin, 77000 Jasin Melaka",
+                "store_link": "https://maps.app.goo.gl/PNvcgESHpcYCWvXP8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 One Krubong",
+                "store_address": "NO. 67 (GROUND FLOOR), JALAN SATU KRUBONG, TAMAN SATU KRUBONG, 75260 MELAKA",
+                "store_link": "https://maps.app.goo.gl/SRmnwsGGXYfCRbuo8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 CALTEX Lebuh SPA",
+                "store_address": "Lot 11723, Jalan Pe 1, Taman Paya Emas, 76450 Melaka, Malaysia",
+                "store_link": "https://maps.app.goo.gl/L3ErikcyjCDNwGzcA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Batu Berendam, Melaka",
+                "store_address": "No 42, Ground Floor, Jalan Mutiara Melaka 2, Taman Mutiara Melaka, Batu Berendam, 75350 Hang Tuah Jaya, Melaka",
+                "store_link": "https://maps.app.goo.gl/AsQbu4qnMpMBupHX6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Klebang, Melaka",
+                "store_address": "40, Ground Floor, Jalan Nirwana 2, Taman Nirwana, Batang Tiga, 76400, Melaka",
+                "store_link": "https://maps.app.goo.gl/eiekDgGENs64R1iGA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bukit Rambai, Melaka",
+                "store_address": "No 47, Jalan Rambai Jaya 29, Taman Rambai Jaya 75260 Melaka",
+                "store_link": "https://maps.app.goo.gl/dtE8tyLLVpnBHVDA9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Alor Gajah",
+                "store_address": "KM 12-1 (Ground Floor), Jalan Perniagaan Jelatang 1, Pusat Perniagaan Jelatang, 78000 Alor Gajah, Melaka",
+                "store_link": "https://maps.app.goo.gl/XfcXpiWAWKpGsAde6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Mahkota Parade",
+                "store_address": "Lot KF10D, First Floor, Mahkota Parade, 1, Jln Merdeka, 75000 Malacca",
+                "store_link": "https://maps.app.goo.gl/AY51YQvgHqvhsJDj9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jonker Street",
+                "store_address": "No 38, Jalan Hang Jebat, 75200, Melaka",
+                "store_link": "https://maps.app.goo.gl/PWWbCvAFx6tpxsFD9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Ayer Keroh Melaka",
+                "store_address": "G-37, Ground Floor, Aeon Mall Melaka Ayer Keroh, alan Tun Abdul Razak, 75450 Melaka",
+                "store_link": "https://maps.app.goo.gl/9CZQy1UrHsCWS5M76"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Bandaraya Melaka",
+                "store_address": "Lot G-09, Ground Floor, AEON Mall Bandaraya Melaka Shopping Centre, 2, Jalan Lagenda 2, Taman 1 Lagenda, 75400 Melaka",
+                "store_link": "https://maps.app.goo.gl/vmNy9wP5EmiqFf9HA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MITC Melaka",
+                "store_address": "No.41, Ground Floor, Jalan Komersial, Taman Kota Fesyen MITC, 75450, Ayer Keroh, Melaka",
+                "store_link": "https://maps.app.goo.gl/ZPvwpJh4Jscdtt2a8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Merlimau",
+                "store_address": "JC 23, Ground Floor, Jalan BMU 1, Bandar Baru Merlimau Utara, 77300, Merlimau, Melaka",
+                "store_link": "https://goo.gl/maps/zDCyQrZCqFUD1atq9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kuala Sungai Baru",
+                "store_address": "SI 15, Ground Floor, Jalan Sungai Baru Ilir Jaya Utama, Taman Sungai Baru Ilir Jaya, 78300 Masjid Tanah, Melaka.",
+                "store_link": "https://goo.gl/maps/pTdd2NtsVYNHp9SdA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Melaka Taman Merdeka",
+                "store_address": "No 39 (Ground Floor), Jalan Merdeka 1, Taman Merdeka, Hang Tuah Jaya, 75350 Batu Berendam, Melaka.",
+                "store_link": "https://goo.gl/maps/r7BGiGK5QZkQ4FsD6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Utama Cheng",
+                "store_address": "No 17 (Ground Floor), Jalan Inang 1, Taman Paya Rumput Utama, 76450 Melaka.",
+                "store_link": "https://goo.gl/maps/zNh2ei2FsRE11SkD7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 ElementX @ Hatten City",
+                "store_address": "G13, Ground Floor, ElementX @ Hatten City, Jalan Melaka Raya, 23, Taman Melaka Raya, 75000 Melaka",
+                "store_link": "https://goo.gl/maps/EhCG7AwJNpCKTe3m7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sungai Udang",
+                "store_address": "No 24 (Ground Floor), Jalan Kerambit 4, Bandar Baru Sungai Udang, 76300 Sungai Udang, Melaka.",
+                "store_link": "https://goo.gl/maps/ideACUEBfKSPNEca9"
+            },
+            {
+                "store_name": "DATARAN PAHLAWAN, MELAKA",
+                "store_address": "B-001(B) Dataran Pahlawan Melaka Megamall, Jln Merdeka, Bandar Hilir, 75000, Melaka",
+                "store_link": "https://goo.gl/maps/3SeGpBhJEVpY6WqF6"
+            },
+            {
+                "store_name": "FREEPORT A\u2019FAMOSA, MELAKA",
+                "store_address": "Freeport A\u2019Famosa Outlet, Lot 28, Jalan Kemus, Simpang Ampat, 78000 Alor Gajah, Melaka",
+                "store_link": "https://goo.gl/maps/adaFPdpC7a5VioHF6"
+            },
+            {
+                "store_name": "JASIN BESTARI, MELAKA",
+                "store_address": "Ground Floor, JC 548, Jln Bestari 5, Bandar Jasin Bestari, 77200 Bemban, Melaka",
+                "store_link": "https://goo.gl/maps/nkCkUwBDMZqfyn5G8"
+            },
+            {
+                "store_name": "MASJID TANAH, MELAKA",
+                "store_address": "SU 1443 (Ground Floor), Jalan Masjid Tanah Ria Utama, Taman Masjid Tanah Ria, 78300 Masjid Tanah, Melaka",
+                "store_link": "https://goo.gl/maps/DABGxjXxsxUS4ehL7"
+            },
+            {
+                "store_name": "BUKIT BARU",
+                "store_address": "Pusat Niaga, No 4 (Ground Floor) Jalan PNBBU 3, Bukit Baru, Bukit Baru Utama, 75150 Bukit Baru, Melaka",
+                "store_link": "https://goo.gl/maps/4hXaCUQqi2vTdChA6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013  Ayer Keroh Heights, Melaka",
+                "store_address": "No.25, GF, Jalan Komersial TAKH 2, Taman Ayer Keroh Heights, Ayer Keroh, 75450 Hang Tuah Jaya Melaka",
+                "store_link": "https://maps.app.goo.gl/WAgjNWmKnGG19RiV8"
+            },
+            {
+                "store_name": "PLAZA PANDAN MALIM",
+                "store_address": "15, Jalan PPM 8, Plaza Pandan Malim, 75250 Melaka",
+                "store_link": "https://goo.gl/maps/appVZFoJBNqqt8Ja9"
+            },
+            {
+                "store_name": "MELAKA KOTA LAKSAMANA",
+                "store_address": "59, Jalan KLJ 6, Taman Kota Laksamana Jaya, 75200 Melaka",
+                "store_link": "https://goo.gl/maps/yjU4eapyJQz4jtpE7"
+            }
+        ],
+        "johor": [
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Sutera Utama, Skudai",
+                "store_address": "No 67GF) Jalan Sutera Tanjung 8/3, Taman Sutera Utama, 81300 Skudai, Johor",
+                "store_link": "https://maps.app.goo.gl/Ww27yjp29QShyfKo8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Tmn Scientex Utama, Senai",
+                "store_address": "No 504(GF) Persiaran Scientex Utama 1, Taman Scientex Utama, 81400 Senai, Johor.",
+                "store_link": "https://maps.app.goo.gl/Y98M24NkWuK4bY2R9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Larkin Jaya, JB",
+                "store_address": "No 7(GF) Jalan Jalan Geroda 2/1, Larkin Jaya, 80350 Johor Bahru, Johor.",
+                "store_link": "https://maps.app.goo.gl/eZypAz8vUgmHvkAS7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Cahaya Kota Puteri, Masai",
+                "store_address": "No 03(GF) Jalan Kota 1, Taman Cahaya Kota Puteri, 81750 Masai, Johor.",
+                "store_link": "https://maps.app.goo.gl/Atp29YLZSf8zzf3e6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Mutiara Mas, Skudai",
+                "store_address": "No 18(GF) Jalan Mutiara 1/1, Taman Mutiara Mas, 81300 Skudai, Johor.",
+                "store_link": "https://maps.app.goo.gl/7fpmZR8aq7b2QTMw8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Kenanga Bandar Indahpura, Kulai",
+                "store_address": "No 184(GF) Jalan Kenanga 29/4, Bandar Indahpura, 81000 Kulai, Johor",
+                "store_link": "https://maps.app.goo.gl/wgtrLEZsQVkWRvE99"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Universiti Pagoh",
+                "store_address": "No. 17-01 (Ground Floor), Jalan Sarjana 8, Pusat Perniagaan Presint Sarjana, Bandar Universiti Pagoh, 84600 Pagoh, Muar, Johor Darul Ta\u2019zim",
+                "store_link": "https://maps.app.goo.gl/cvuCA3fm17UqerUM7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 KSL City Mall",
+                "store_address": "GF-S04b, KSL City Mall, 33, Jalan Seladang, Taman Abad, 80250 Johor Bahru, Johor",
+                "store_link": "https://maps.app.goo.gl/Z2bPzU8YCvBqgSR26"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kluang Mall",
+                "store_address": "Lot 1K-08a, First Floor, Kluang Mall, Jln Rambutan, Taman Suria, 86000 Kluang, Johor",
+                "store_link": "https://maps.app.goo.gl/814ztRt1LKw1WUEX6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Johor Premium Outlet (Food Court)",
+                "store_address": "No. 28, Johor Premium Outlet, Jalan Premium Outlets, Bandar Indahpura, 81000 Kulai, Johor",
+                "store_link": "https://maps.app.goo.gl/iRL9hZJjVrC4JFp67"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Pulai Mutiara, JB",
+                "store_address": "No 21(GF) Jalan Pulai Mutiara 9/6, Taman Pulai Mutiara, 81300 Johor Bahru, Johor.",
+                "store_link": "https://maps.app.goo.gl/TeEGFiPYQr3m44fcA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Taman Bukit Perdana 2, Batu Pahat",
+                "store_address": "No 2-13 (GF) Jalan Susur Perdana Tengah, Taman Bukit Perdana 2, 83000 Batu Pahat, Johor.",
+                "store_link": "https://maps.app.goo.gl/6NHYQvDLKvUm8Rt19"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Tampoi Susur",
+                "store_address": "No 37(GF) Jalan Tampoi Susur 1, 81200 Johor Bahru, Johor.",
+                "store_link": "https://maps.app.goo.gl/m1ewSVPPRGzu5efn7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Batu Pahat Mall",
+                "store_address": "G-42, Ground Floor, Batu Pahat Mall, Jln Kluang, 83000 Batu Pahat, Johor",
+                "store_link": "https://maps.app.goo.gl/3nW3hiV13ypK2fiq7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sunway Boulevard 88, Iskandar Johor",
+                "store_address": "Lot 36-01, Sunway Boulevard 88, Laman Niaga Sunway, Persiaran Medini 3, Sunway City Iskandar Puteri, 79250 Iskandar Puteri, Johor Darul Takzim",
+                "store_link": "https://maps.app.goo.gl/qKFaQnrsdVSNZpFX6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bukit Dahlia, Pasir Gudang",
+                "store_address": "No. 8 (Ground Floor) , Jalan Sejambak 14, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor",
+                "store_link": "https://maps.app.goo.gl/nYi3rHDrTAL6JJf48"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Universiti Teknologi Malaysia (Arked Meranti)",
+                "store_address": "Lot G-15, Arked Meranti, Universiti Teknologi Malaysia, Skudai, Johor Darul Takzim",
+                "store_link": "https://maps.app.goo.gl/6WgcryfsChBPwPpy5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Artiz, Johor Bahru",
+                "store_address": "No.6(GF), Jalan Setia 3/12, Taman Setia Indah, 81100 Johor Bahru, Johor.",
+                "store_link": "https://maps.app.goo.gl/XnTEuqXb8NRvhNAq8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Angsana Johor Bahru",
+                "store_address": "Lot 1.22, First Floor, Angsana Johor Bahru Mall, Skudai Lbh, Pusat Bandar Tampoi, 81200 Johor Bahru, Johor",
+                "store_link": "https://maps.app.goo.gl/4MXzepx8GCKEGDgA8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Tangkak Johor",
+                "store_address": "No. 131 (Ground Floor), Jalan Muar, 84900 Tangkak Johor",
+                "store_link": "https://maps.app.goo.gl/J9BXoTUBxDuEvibu8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sutera Mall",
+                "store_address": "L2-550k, Sutera Mall, Jalan Sutera Tanjung 8/4, 81300 Skudai, Johor",
+                "store_link": "https://maps.app.goo.gl/Qp9boDRUGPpJRXau5"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Lotus\u2019s Kluang",
+                "store_address": "G7. Lotus\u2019s Kluang, H.S(D) 63272, PTD 78094, Mukim Kluang, Daerah Kluang, 86000 Johor.",
+                "store_link": "https://maps.app.goo.gl/vYvNMgEsUAYpfqGr8"
+            },
+            {
+                "store_name": "Zus Coffee \u2013 DT Shell Pulai Perdana",
+                "store_address": "PTD 105042, Jalan Skudai-Pontian, Kangkar Pulai, 81300 Skudai, Johor",
+                "store_link": "https://goo.gl/maps/A2UgoSiyEp7DXguF6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Wetex Parade",
+                "store_address": "Lot G13 & G13A, Wetex Parade, No. 69, Jalan Ali, 84000 Muar, Johor",
+                "store_link": "https://goo.gl/maps/GnVRn4PWw98azoa49"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Johor Bukit Gambir Tangkak",
+                "store_address": "No. 16 (Ground Floor), Jalan Gambir 5A, Bandar Baru Bukit Gambir, 84800 Tangkak, Johor",
+                "store_link": "https://goo.gl/maps/ZCe7DG7yoPychLyj9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Bukit Indah",
+                "store_address": "AEON Mall Bukit Indah. G07A, Ground Floor, Grand Mezzanine, 8, Jalan Indah 15/2, Taman Bukit Indah, 81200 Johor Bahru, Johor.",
+                "store_link": "https://goo.gl/maps/M4wUEdTKQwb9WdJd7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Segamat Central",
+                "store_address": "Lot G-11, Jalan Kolam Air, 85000 Segamat, Johor Darul Takzim",
+                "store_link": "https://goo.gl/maps/ek7d8Wwfgcd1BWzt7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Yong Peng",
+                "store_address": "No.4 (Ground floor), Jalan Cahaya Baru, Taman Bandar Cahaya Baru, 83700 Yong Peng, Johor",
+                "store_link": "https://goo.gl/maps/d3VbQBH3mmQdxW5Z9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Nusa Bestari",
+                "store_address": "2 (Ground floor) , Jalan Bestari 6/2, Taman Nusa Bestari , 81300 Skudai , Johor.",
+                "store_link": "https://goo.gl/maps/9obVCUvY2CVvfqCd6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Mall Mid Valley Southkey",
+                "store_address": "Lot LGK-16, Mid Valley Southkey, No. 1 Persiaran Southkey 1, 80150 Johor Bahru",
+                "store_link": "https://goo.gl/maps/ZwpPBuHCjWnDtJoP8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Paradigm Mall JB",
+                "store_address": "Lot 4FK-35, Paradigm Mall, Jalan Skudai Lbh, 81200, Johor.",
+                "store_link": "https://goo.gl/maps/zyqnmBFEiEYQ9MJ58"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Labis",
+                "store_address": "No 114, Jalan Segamat, Taman Bintang Jaya, 85300 Labis, Johor.",
+                "store_link": "https://goo.gl/maps/nVcM9yhouwy73B5T6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Seri Alam",
+                "store_address": "No 5 (Ground floor), Jalan Suria 3, Bandar Seri Alam, 81750 Masai, Johor",
+                "store_link": "https://goo.gl/maps/EuiYoDvAF79n4SUU6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Desa Cemerlang",
+                "store_address": "No.49, Jalan Tanjong 2, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor.",
+                "store_link": "https://goo.gl/maps/kRN744i9UoqSqntR9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Parit Raja",
+                "store_address": "No 20 (Ground Floor), Jalan Universiti 1, Taman Universiti, 86400 Parit Raja, Johor Darul Takzim.",
+                "store_link": "https://goo.gl/maps/hwPCBJ2eVKSjrUCR8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 68 Degree Avenue, Johor",
+                "store_address": "No 15 (Ground Floor), Jalan Suria 2, Pusat Komersial Suria, 81550 Gelang Patah, Johor.",
+                "store_link": "https://goo.gl/maps/VjVsrti4Y4Z9WhUa9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 AEON Mall Tebrau City",
+                "store_address": "FK2, First Floor, Aeon Tebrau City Shopping Centre, 3, Persiaran Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru",
+                "store_link": "https://goo.gl/maps/4zHqHu6yQXskpAdf8"
+            },
+            {
+                "store_name": "PERMAS JAYA, JOHOR",
+                "store_address": "No 28 (Ground Floor), Jln Permas 10, Bandar Baru Permas Jaya, 81750 Masai, Johor",
+                "store_link": "https://goo.gl/maps/3KFnkKAP6bPLSHdx6"
+            },
+            {
+                "store_name": "TOPPEN SHOPPING CENTRE, JOHOR",
+                "store_address": "Lot L1.K03A Toppen Shopping Centre, Taman Desa Tebrau, 81100 Johor Bahru, Johor",
+                "store_link": "https://goo.gl/maps/cnJsoS2WHQDPzRZK9"
+            },
+            {
+                "store_name": "SUTERA MALL, JOHOR",
+                "store_address": "Sutera Mall, L2-550k, Jalan Sutera Tanjung 8/4, 81300 Skudai, Johor",
+                "store_link": "https://goo.gl/maps/r4XQHiLeAWzMDhyT6"
+            },
+            {
+                "store_name": "JALAN MOLEK, JOHOR",
+                "store_address": "No 55 (Ground Floor, Jalan Molek 1/29, Taman Molek, 81100 Johor Bahru, Johor",
+                "store_link": "https://goo.gl/maps/TM2jBS7dEXfodygm9"
+            },
+            {
+                "store_name": "BANDAR INDAHPURA KULAI",
+                "store_address": "No 221 (Ground Floor) Jalan Kiambang 14, Pusat Komersial Indah, Bandar Indahpura, 81000 Kulai, Johor",
+                "store_link": "https://goo.gl/maps/4vh25HzKHRrWtFuF6"
+            },
+            {
+                "store_name": "WATSONS TD SENTRAL, TAMAN DAYA",
+                "store_address": "Ground Floor, No. 6C, Jalan Sagu 18, Taman Daya, 81100 Johor Bahru, Johor",
+                "store_link": "https://goo.gl/maps/i56cHppHXH9UFa3q9"
+            },
+            {
+                "store_name": "SEGAMAT GENUANG",
+                "store_address": "26G, Jalan Genuang Perdana, Bandar Segamat Baru, 85000 Segamat, Johor",
+                "store_link": "https://goo.gl/maps/tUntNPoQCtzasHgv5"
+            },
+            {
+                "store_name": "ADDA HEIGHT",
+                "store_address": "No.20 (GF) Jalan Adda 7, 81100 Johor Bahru, Johor",
+                "store_link": "https://goo.gl/maps/txhDgK13qxW7h9226"
+            },
+            {
+                "store_name": "KOTA TINGGI",
+                "store_address": "No. 36G, Jalan Jaffar, 81900 Kota Tinggi, Johor",
+                "store_link": "https://goo.gl/maps/afpusxQf7cQhcpBw5"
+            },
+            {
+                "store_name": "MERSING",
+                "store_address": "No. 16G, Jalan Abu Bakar, Mersing 86800, Johor",
+                "store_link": "https://goo.gl/maps/i6GadYmVAj1P64e97"
+            },
+            {
+                "store_name": "JOHOR ECO BOTANIC",
+                "store_address": "No. 50 G, Jalan Eko Botani 3/2, Taman Eko Botani, 79100 Iskandar Puteri, Johor",
+                "store_link": "https://goo.gl/maps/P3d1aJdXeEMy41HY7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Jalan Kebun Teh, Johor",
+                "store_address": "No.4G, Jalan Kebun Teh 2, Taman Kebun Teh, 80250 Johor Bahru, Johor",
+                "store_link": "https://maps.app.goo.gl/tHyL7SKHHViSmYP47"
+            },
+            {
+                "store_name": "PONTIAN KOTA EMAS",
+                "store_address": "70-G, Jalan Emas 2, Pusat Perniagaan Kota Emas 82000 Pontian, Johor",
+                "store_link": "https://goo.gl/maps/nsrgW4CSLEhKBLGU6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sungai Rengit, Pengerang, Johor",
+                "store_address": "88-01, Jalan Hee Seng, Sungai Rengit, 81620 Pengerang, Johor",
+                "store_link": "https://goo.gl/maps/GdA2x28GZjAUp2zM8"
+            },
+            {
+                "store_name": "BUKIT TIRAM",
+                "store_address": "No. 13G, Jalan Ledang 25, Taman Bukit Tiram, 81800 Ulu Tiram, Johor",
+                "store_link": "https://goo.gl/maps/s4XdykZ5Wqw2jeDR6"
+            },
+            {
+                "store_name": "SETIA TROPIKA",
+                "store_address": "No. 45, Jalan Setia Tropika 1/15, Taman Setia Tropika, 81200 Johor Bahru, Johor",
+                "store_link": "https://goo.gl/maps/T7NJxy5HRfPFQyQL8"
+            },
+            {
+                "store_name": "BANDAR BARU UDA",
+                "store_address": "No. 11G, Jalan Padi Emas 1/4, Bandar Baru Uda, 81200 Johor Bahru, Johor",
+                "store_link": "https://goo.gl/maps/ZZEhd7imVFACmikdA"
+            },
+            {
+                "store_name": "TAMAN UNIVERSITI",
+                "store_address": "8, Jalan Pendidikan 8, Taman Universiti 81300 Skudai, Johor",
+                "store_link": "https://goo.gl/maps/bzEjxQc7paotzFzy8"
+            },
+            {
+                "store_name": "KLUANG VERSI BOULEVARD",
+                "store_address": "11, Ground Floor, Jalan Duku 86000 Kluang, Johor",
+                "store_link": "https://goo.gl/maps/Tad4eNsNfuh4BfNg7"
+            },
+            {
+                "store_name": "PEKAN NANAS",
+                "store_address": "101, Ground Floor, Jalan Industri 8, Taman Perindustrian Pekan Nanas 81500 Johor",
+                "store_link": "https://goo.gl/maps/YMSHAf6f7P1AqbDt8"
+            },
+            {
+                "store_name": "KOTA MASAI JOHOR",
+                "store_address": "3, Jalan Ekoperniagaan 9, Taman Kota Masai 81700 Pasir Gudang, Johor",
+                "store_link": "https://goo.gl/maps/RZN2YkMEfEYPCAhr8"
+            },
+            {
+                "store_name": "BATU PAHAT",
+                "store_address": "17, Jalan Rotan Utama, Taman Sri Jaya 83000 Batu Pahat Johor",
+                "store_link": "https://goo.gl/maps/URTZfvxmvosjgqo8A"
+            },
+            {
+                "store_name": "MUAR BAKRI",
+                "store_address": "29-27 (BHU) Jalan Pesta \u00bd Taman Kampung Kenangan Tun Dr Ismail 84000 Muar Johor",
+                "store_link": "https://goo.gl/maps/x7FtTbuz854v4HA66"
+            },
+            {
+                "store_name": "MOUNT AUSTIN",
+                "store_address": "65, Jalan Mutiara Emas 2A, Taman Mount Austin, 81100 Johor Bahru",
+                "store_link": "https://goo.gl/maps/PjzAUFeuJQwGfuLE7"
+            }
+        ],
+        "sarawak": [
+            {
+                "store_name": "ZUS Coffee \u2013 Bandar Baru Samariang, Kuching",
+                "store_address": "Bandar Baru Samariang, Ground Floor, Sublot 34 (Survey Lot 7672), Salak Land District, Jalan Sultan Tengah, Petra Jaya, 93050 Kuching, Sarawak.",
+                "store_link": "https://maps.app.goo.gl/xtw2br22AdhDCaBQ8"
+            },
+            {
+                "store_name": "ZUS Coffee DT \u2013 Jalan Rock, Kuching",
+                "store_address": "Lot 365, Jalan Rock, Min Chu Garden, 93200 Kuching, Sarawak",
+                "store_link": "https://maps.app.goo.gl/asLrF8mbWVv5Lat77"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sentosa Parade, Kuching",
+                "store_address": "Sentosa Parade, Ground Floor, Sublot No. 69 of Block B held under Parent Lot 329 and 332 of Block 46, 93250 Kuching, Sarawak",
+                "store_link": "https://maps.app.goo.gl/L3purdvwVEN7X3wE9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Uni-Avenue, Sibu",
+                "store_address": "Lot 11, Uni-Avenue, Jln Setia, 96000 Sibu, Sarawak",
+                "store_link": "https://maps.app.goo.gl/u8HJoxsuNomqvTnu8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sibu Town Square",
+                "store_address": "Lot 789, Block 5, Ground Floor, Sibu Town District, 29 Jalan Lau King Howe, 96000, Sibu, Sarawak",
+                "store_link": "https://maps.app.goo.gl/FDiFwdB1tMJY2pGz7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Spring Bintulu",
+                "store_address": "KG1, Ground Floor, The Spring Bintulu, Lot 4282, Jalan Tun Abdul Razak, 97000 Bintulu, Sarawak",
+                "store_link": "https://maps.app.goo.gl/aTZd4m9F4bcUV8JJ7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Pines Square, Kuching",
+                "store_address": "Pines Square Kuching, Ground Floor Plot 48, Lot 6728, Pines Square, Jalan Batu Kawa, 93250 Kuching",
+                "store_link": "https://maps.app.goo.gl/Dk3qxDVfr1NcbwhT9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Sego Precinct 1",
+                "store_address": "Lot G1, Jalan Kulas, 93400 Kuching, Sarawak",
+                "store_link": "https://maps.app.goo.gl/SQaXvaPbQ4PuapsC6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Emart Tabuan Jaya, Kuching",
+                "store_address": "Emart Tabuan Jaya, Lot G06 & G07, Ground Floor, Commercial Centre, No 1, Tabuan Tranquility, Jalan Canna, 93350 Kuching, Sarawak",
+                "store_link": "https://maps.app.goo.gl/DeT9Dh114uYL4Pww6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Boulevard Shopping Mall Kuching",
+                "store_address": "G-B-17, Ground Floor, Mall 1, Boulevard Shopping Mall, Jalan Datuk Tawi Sli, Taman Seng Goon, 93250 Kuching, Sarawak",
+                "store_link": "https://maps.app.goo.gl/ZH24M32fNPwLRYkV8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Time Square Megamall Bintulu",
+                "store_address": "Lot No.47, Ground Floor, Time Square Megamall, 97000 Bintulu, Sarawak",
+                "store_link": "https://maps.app.goo.gl/RMW2fxPKsLBoMpH48"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Boulevard Shopping Mall Bintulu",
+                "store_address": "G-12 & G-13, Ground Floor, Boulevard Shopping Mall, 714, Jalan Tun Razak, 97000 Bintulu, Sarawak",
+                "store_link": "https://maps.app.goo.gl/XFf7TanQ6BGfnvdJ6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Saradise Kuching",
+                "store_address": "Ground Floor Lot 19717 Sl 39 Blk C1 Saradise Shophouses Jin Stutong 93350 Kuching Sarawak.",
+                "store_link": "https://maps.app.goo.gl/aW2yKRDb2dUUwVy76"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Boulevard Commercial Centre Miri",
+                "store_address": "Lot 2514, ground floor & 1st floor, block 5, Miri concession land, 98000 Miri, Sarawak",
+                "store_link": "https://maps.app.goo.gl/onR5cmEnKxwx9D5K6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Eastern Mall Siburan",
+                "store_address": "Lot 1964C \u2013 Block C, Eastern Mall Siburan, 9C72+CW, 94200 Siburan, Sarawak.",
+                "store_link": "https://maps.app.goo.gl/NZ4gHEUkb5sJiC3fA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Plaza Merdeka Kuching",
+                "store_address": "No. G-01, Ground Floor, Plaza Merdeka Shopping Centre, 88 Pearl Street, 93000 Kuching, Sarawak, Malaysia",
+                "store_link": "https://maps.app.goo.gl/zdvX5QpLi4iZpu6CA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Northbank, Kuching",
+                "store_address": "Ground Floor, PL 18 / SL 4082, Lot 3146, Block 12, Muara Tebas Land District",
+                "store_link": "https://maps.app.goo.gl/rhcrp9wetwdaMQocA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Galacity Kuching",
+                "store_address": "Sub Lot 80, Ground Floor, Galacity Kuching, alan Datuk Tawi Sli 3rd Exchange Commercial Centre, 93250 Kuching, Sarawak",
+                "store_link": "https://maps.app.goo.gl/pXhzoQLr27H71XGg7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Hills Kuching",
+                "store_address": "Shop 22, Lower Ground Floor, The Hills, Interhill Place, 8, Jalan Bukit Mata Kuching, 93100 Kuching, Sarawak",
+                "store_link": "https://maps.app.goo.gl/Kz71pPWZJRMqH7i6A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 MetroMall @ Metrocity Square",
+                "store_address": "Sublot No. 8, Ground Floor, MetroMall @ Metrocity Square, Survey Lot 13767 Section 6, Kuching Town Land District Metrocity Sqaure Boutique Shops",
+                "store_link": "https://maps.app.goo.gl/5T5DKjRp2RGUZYSn7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 The Summer Shopping Mall",
+                "store_address": "Ground Floor, Island Kiosk, The Summer Shopping Mall, Lot 7455, Block 1, Jln Datuk Mohammad Musa, 94300 Kota Samarahan, Sarawak",
+                "store_link": "https://goo.gl/maps/HwWCnvNKh2nwWd4S9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Aeon Mall Kuching Central",
+                "store_address": "Lot KS4, Level 2, AEON Mall Kuching Central, Jln Tun Datuk Patinggi Haji Ahmad Zaidi Adruce, Min Chu Garden, 93200 Kuching, Sarawak",
+                "store_link": "https://goo.gl/maps/PXo8HSykdrS9jNVHA"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Vivacity Megamall",
+                "store_address": "Lot L3-K006, Vivacity Megamall, Jalan Wan Alwi, 93350 Kuching, Sarawak",
+                "store_link": "https://goo.gl/maps/R6A8bN9JvmTtyd1Z8"
+            }
+        ],
+        "sabah": [
+            {
+                "store_name": "ZUS Coffee \u2013 Centrepoint Sabah Shopping Mall",
+                "store_address": "G75C, Centrepoint Sabah Shopping Mall, Lorong Centre Point, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah",
+                "store_link": "https://maps.app.goo.gl/aZsCVwuBcqb8c8hj7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Garden City, Tawau",
+                "store_address": "Lot No B1.23.0 (Ground Floor), Block B, Garden City KM 5, Jalan Apas, 91000 Tawau, Sabah",
+                "store_link": "https://maps.app.goo.gl/ncLG5aUDrRC9G6Kn6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kubota Sentral, Tawau",
+                "store_address": "LOT NO J4, MPT NO.47-0 (GROUND FLOOR), KUBOTA SENTRAL, JALAN CHONG THEIN VUN 91000 TAWAU, SABAH",
+                "store_link": "https://maps.app.goo.gl/cWentbGC1ch3nkw9A"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 T2@Apas, Tawau",
+                "store_address": "NO. 18, LOT 35,T2@APAS,JALAN T2-A, MILE 1,JALAN APAS 91000 TAWAU, SABAH.",
+                "store_link": "https://maps.app.goo.gl/rimippJdgzkdAgMx7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kota Marudu",
+                "store_address": "Lot 3, Ground Floor, Block A, Jalan Goshen, 89107, Kota Marudu, Sabah",
+                "store_link": "https://maps.app.goo.gl/nYi3rHDrTAL6JJf48"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Aeropod Commercial Square",
+                "store_address": "No. B-1-3 (Ground Floor), Aeropod Commercial Square, Jalan Aeropod, Off Jalan Kepayan, Sabah",
+                "store_link": "https://maps.app.goo.gl/EKuP79zBsjtCtPiy6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Benoni Commercial Centre",
+                "store_address": "Lot 90, Ground Floor, Benoni Commercial Centre, Jalan Papar Spur, 89600 Papar Sabah",
+                "store_link": "https://maps.app.goo.gl/fKofqScdnhy2sDBf9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 City Mall Kota Kinabalu",
+                "store_address": "M-0-77 (S05), Ground Floor, Jln Lintas, 88300 Kota Kinabalu, Sabah",
+                "store_link": "https://maps.app.goo.gl/poVLiXXpNF4ZDKjh6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Solaris Tuaran",
+                "store_address": "Lot No. 48, Ground Floor, Block F, Solaris Tuaran 89200 Tuaran, Sabah",
+                "store_link": "https://maps.app.goo.gl/jxS4fBeJDisEPt3x9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Plaza 22, Papar",
+                "store_address": "No.51, Ground Floor, Block H, Plaza 22, Jln Pengalat Lok Kawi, 89600 Papar, Sabah",
+                "store_link": "https://maps.app.goo.gl/yKQfTeqQGDasDPLP8"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Kingfisher Plaza",
+                "store_address": "No. 9-0, Ground Floor, Block D, Lorong Plaza Kingfisher 4, Plaza Kingfisher, 88450 Kota Kinabalu, Sabah",
+                "store_link": "https://maps.app.goo.gl/WZtvtHWRXCchLH6w6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Imago Shopping Mall",
+                "store_address": "G-51. Imago Shopping Mall, KK Times Square, Phase 2, Off Coastal Highway, 88100 Kota Kinabalu, Sabah.",
+                "store_link": "https://goo.gl/maps/sP1VBq4MAdeMKXEA9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Suria Sabah Shopping Mall",
+                "store_address": "Kiosk-LG-K8, Lower Ground Floor, Jalan Tun Fuad Stephens, 88000 Kota Kinabalu, Sabah, Malaysia",
+                "store_link": "https://goo.gl/maps/heE7J7h1cG8XGgvt6"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Lintas Plaza",
+                "store_address": "No 30-0 (Ground Floor), Phase 2C, Lorong Lintas Plaza, Lintas Plaza, 88300 Kota Kinabalu, Sabah.",
+                "store_link": "https://goo.gl/maps/hiYbLNfCm46Qp9ap9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 EG Mall Inanam",
+                "store_address": "Lot G6, K9 & K10, EG Mall Inanam, No 6, Lot 28, Taman Perindustrian Bukit Emas, Mile 7 1/2, Jalan Tuaran, 88400 Kota Kinabalu, Sabah.",
+                "store_link": "https://goo.gl/maps/3DSiGbEJoLK7v9nQ7"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 Plaza 333",
+                "store_address": "Lot 42-0 (Ground Floor), Block E, Lorong Plaza 333-6, Plaza 333, Kobusak Commercial Centre, 88500 Kota Kinabalu, Sabah.",
+                "store_link": "https://goo.gl/maps/eeUN9EBdgspaPgfs9"
+            },
+            {
+                "store_name": "ZUS Coffee \u2013 ITCC Penampang",
+                "store_address": "Lot G-16 (Ground Floor), ITCC Shopping Mall, Jalan Pintas Penampang, 89500 Penampang, Sabah",
+                "store_link": "https://goo.gl/maps/j46soRQNihgwdmJX6"
+            }
+        ]
+    }
+}
